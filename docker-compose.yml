@@ -1,0 +1,21 @@
+version: "3.9" # version of docker
+
+services:
+  spark-iceberg:
+
+    image: tabulario/spark-iceberg:latest # the docker image for spark , iceberg, python, warehouse and jupyter
+
+    container_name: spark-iceberg # name given to the container
+
+    ports:
+      - "8888:8888" # Jupyter notebook
+      - "4040:4040" # Spark web UI
+
+    volumes:
+      - ./warehouse:/home/iceberg/warehouse #connecting the local warehouse directory to the container's warehouse directory
+      - ./data:/home/iceberg/data #connecting the local data directory to the container's data directory
+      - ./notebooks:/home/iceberg/notebooks #connecting the local notebooks directory to the container's notebooks directory
+      - ./scripts:/home/iceberg/scripts #connecting the local scripts directory to the container's scripts directory
+
+    stdin_open: true # allows us to enter the container and run commands interactively
+    tty: true # keeps the terminal open for interactive sessions
