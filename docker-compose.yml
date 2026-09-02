@@ -3,8 +3,10 @@
 services:
   spark-iceberg:
 
-    image: tabulario/spark-iceberg:latest # the docker image for spark , iceberg, python, warehouse and jupyter
-
+    build:
+      context: . # build the image from the current directory
+      dockerfile: Dockerfile # use the Dockerfile in the current directory
+      
     container_name: spark-iceberg # name given to the container
 
     ports:
