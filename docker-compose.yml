@@ -1,4 +1,4 @@
-version: "3.9" # version of docker
+#version: "3.9" # version of docker
 
 services:
   spark-iceberg:
@@ -11,11 +11,26 @@ services:
       - "8888:8888" # Jupyter notebook
       - "4040:4040" # Spark web UI
 
+    env_file:
+      - ./config/project.env
+
     volumes:
+
+      # Newly added volumes for ingestion, spark, iceberg, data_quality, tests, and config directories
+      - ./ingestion:/home/iceberg/ingestion
+      - ./spark:/home/iceberg/spark
+      - ./iceberg:/home/iceberg/iceberg
+      - ./data_quality:/home/iceberg/data_quality
+      - ./tests:/home/iceberg/tests
+      - ./config:/home/iceberg/config
+      # Existing directories 
       - ./warehouse:/home/iceberg/warehouse #connecting the local warehouse directory to the container's warehouse directory
       - ./data:/home/iceberg/data #connecting the local data directory to the container's data directory
       - ./notebooks:/home/iceberg/notebooks #connecting the local notebooks directory to the container's notebooks directory
       - ./scripts:/home/iceberg/scripts #connecting the local scripts directory to the container's scripts directory
+      # AWS credentials directory
+      - ~/.aws:/root/.aws:ro # connecting the local AWS credentials directory to the container's AWS credentials directory
+
 
     stdin_open: true # allows us to enter the container and run commands interactively
     tty: true # keeps the terminal open for interactive sessions

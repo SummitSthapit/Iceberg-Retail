@@ -1,0 +1,1001 @@
+transaction_id,transaction_timestamp,product,category,quantity,unit_price,customer_city,payment_method
+1,2026-09-20 03:39:38,Desk,Furniture,5,300.0,Bhaktapur,card
+2,2026-09-25 13:56:24,Backpack,Accessories,1,55.0,Butwal,cash
+3,2026-09-02 20:34:28,Laptop,Electronics,2,850.0,Butwal,mobile_payment
+4,2026-09-12 08:46:03,Backpack,Accessories,4,55.0,Butwal,card
+5,2026-09-01 10:05:41,Laptop,Electronics,2,850.0,Biratnagar,mobile_payment
+6,2026-09-07 20:43:58,Mouse,Electronics,4,25.0,Biratnagar,cash
+7,2026-09-17 19:21:36,Laptop,Electronics,4,850.0,Biratnagar,card
+8,2026-09-01 19:27:13,Desk,Furniture,2,300.0,Biratnagar,card
+9,2026-09-17 10:30:22,Headphones,Electronics,3,90.0,Lalitpur,card
+10,2026-09-26 00:58:55,Pen,Stationery,4,2.0,Butwal,mobile_payment
+11,2026-09-04 22:50:22,Monitor,Electronics,4,220.0,Kathmandu,card
+12,2026-09-07 02:09:41,Pen,Stationery,4,2.0,Lalitpur,card
+13,2026-09-21 04:50:51,Notebook,Stationery,4,5.0,Butwal,mobile_payment
+14,2026-09-18 09:20:35,Desk,Furniture,3,300.0,Biratnagar,card
+15,2026-10-01 07:55:16,Mouse,Electronics,1,25.0,Lalitpur,mobile_payment
+16,2026-09-12 01:59:33,Keyboard,Electronics,5,45.0,Pokhara,card
+17,2026-09-08 19:04:24,Desk Chair,Furniture,2,180.0,Biratnagar,card
+18,2026-09-09 03:15:58,Desk Chair,Furniture,1,180.0,Biratnagar,card
+19,2026-09-11 14:26:50,Mouse,Electronics,3,25.0,Biratnagar,card
+20,2026-09-03 16:46:03,Pen,Stationery,3,2.0,Pokhara,cash
+21,2026-09-18 16:54:09,Desk,Furniture,3,300.0,Kathmandu,card
+22,2026-09-07 17:08:24,Laptop,Electronics,3,850.0,Bhaktapur,cash
+23,2026-10-01 07:13:20,Headphones,Electronics,5,90.0,Biratnagar,cash
+24,2026-09-14 18:13:51,Backpack,Accessories,1,55.0,Pokhara,card
+25,2026-09-24 04:43:11,Desk Chair,Furniture,2,180.0,Biratnagar,cash
+26,2026-09-09 23:13:47,Laptop,Electronics,4,850.0,Biratnagar,card
+27,2026-09-08 12:46:02,Laptop,Electronics,2,850.0,Butwal,mobile_payment
+28,2026-09-28 03:56:19,Pen,Stationery,3,2.0,Kathmandu,cash
+29,2026-09-13 00:53:45,Backpack,Accessories,3,55.0,Butwal,mobile_payment
+30,2026-09-18 16:21:26,Desk Chair,Furniture,5,180.0,Butwal,cash
+31,2026-09-03 10:11:12,Monitor,Electronics,2,220.0,Biratnagar,cash
+32,2026-09-26 07:49:21,Desk Chair,Furniture,5,180.0,Lalitpur,cash
+33,2026-09-10 04:53:46,Keyboard,Electronics,3,45.0,Butwal,card
+34,2026-09-21 18:10:33,Keyboard,Electronics,5,45.0,Pokhara,cash
+35,2026-09-14 06:43:21,Backpack,Accessories,2,55.0,Butwal,cash
+36,2026-09-01 12:33:59,Headphones,Electronics,5,90.0,Biratnagar,mobile_payment
+37,2026-09-13 04:34:12,Monitor,Electronics,4,220.0,Biratnagar,mobile_payment
+38,2026-09-25 04:31:47,Mouse,Electronics,5,25.0,Bhaktapur,mobile_payment
+39,2026-09-27 01:54:27,Pen,Stationery,4,2.0,Bhaktapur,cash
+40,2026-09-11 04:15:58,Monitor,Electronics,4,220.0,Pokhara,card
+41,2026-09-14 02:07:30,Backpack,Accessories,2,55.0,Bhaktapur,card
+42,2026-09-20 14:32:36,Backpack,Accessories,3,55.0,Bhaktapur,mobile_payment
+43,2026-09-06 11:34:56,Pen,Stationery,2,2.0,Kathmandu,mobile_payment
+44,2026-09-14 20:56:24,Pen,Stationery,5,2.0,Bhaktapur,card
+45,2026-09-17 01:28:21,Pen,Stationery,5,2.0,Bhaktapur,cash
+46,2026-09-01 12:08:37,Monitor,Electronics,5,220.0,Kathmandu,mobile_payment
+47,2026-09-05 20:33:46,Headphones,Electronics,3,90.0,Lalitpur,card
+48,2026-09-08 03:38:29,Keyboard,Electronics,2,45.0,Biratnagar,mobile_payment
+49,2026-09-16 08:29:38,Desk Chair,Furniture,3,180.0,Lalitpur,mobile_payment
+50,2026-09-30 07:27:34,Keyboard,Electronics,3,45.0,Butwal,mobile_payment
+51,2026-09-19 22:16:34,Desk,Furniture,2,300.0,Butwal,cash
+52,2026-09-12 06:25:20,Laptop,Electronics,4,850.0,Bhaktapur,mobile_payment
+53,2026-09-15 20:13:46,Notebook,Stationery,4,5.0,Biratnagar,mobile_payment
+54,2026-09-13 18:54:15,Pen,Stationery,4,2.0,Butwal,cash
+55,2026-09-04 07:22:12,Keyboard,Electronics,1,45.0,Pokhara,cash
+56,2026-09-08 04:31:07,Backpack,Accessories,5,55.0,Kathmandu,card
+57,2026-09-05 04:39:30,Desk,Furniture,3,300.0,Kathmandu,card
+58,2026-09-22 11:20:22,Mouse,Electronics,5,25.0,Lalitpur,cash
+59,2026-09-27 19:47:42,Laptop,Electronics,4,850.0,Bhaktapur,mobile_payment
+60,2026-09-24 22:48:34,Desk,Furniture,2,300.0,Lalitpur,card
+61,2026-09-17 00:34:02,Desk,Furniture,2,300.0,Butwal,cash
+62,2026-09-27 02:05:57,Keyboard,Electronics,4,45.0,Kathmandu,card
+63,2026-09-08 06:47:16,Notebook,Stationery,4,5.0,Kathmandu,cash
+64,2026-09-25 12:23:23,Notebook,Stationery,5,5.0,Pokhara,cash
+65,2026-09-06 20:49:09,Pen,Stationery,3,2.0,Kathmandu,card
+66,2026-09-06 11:59:02,Laptop,Electronics,5,850.0,Lalitpur,cash
+67,2026-09-16 17:19:28,Monitor,Electronics,5,220.0,Butwal,card
+68,2026-09-03 23:18:18,Backpack,Accessories,1,55.0,Butwal,mobile_payment
+69,2026-09-27 16:39:45,Notebook,Stationery,3,5.0,Butwal,mobile_payment
+70,2026-09-03 15:18:47,Desk Chair,Furniture,3,180.0,Lalitpur,card
+71,2026-09-28 00:17:00,Mouse,Electronics,4,25.0,Biratnagar,mobile_payment
+72,2026-09-18 02:25:42,Monitor,Electronics,1,220.0,Butwal,cash
+73,2026-09-15 20:16:56,Headphones,Electronics,2,90.0,Bhaktapur,cash
+74,2026-09-12 10:12:37,Desk Chair,Furniture,2,180.0,Kathmandu,card
+75,2026-09-10 09:47:31,Desk Chair,Furniture,1,180.0,Lalitpur,card
+76,2026-09-10 20:50:44,Pen,Stationery,1,2.0,Lalitpur,card
+77,2026-10-01 13:16:53,Monitor,Electronics,1,220.0,Butwal,cash
+78,2026-09-24 00:05:53,Backpack,Accessories,1,55.0,Pokhara,mobile_payment
+79,2026-09-29 17:15:52,Keyboard,Electronics,5,45.0,Butwal,mobile_payment
+80,2026-09-07 20:32:52,Mouse,Electronics,1,25.0,Bhaktapur,card
+81,2026-09-28 01:31:40,Backpack,Accessories,2,55.0,Lalitpur,cash
+82,2026-09-04 06:13:48,Notebook,Stationery,4,5.0,Biratnagar,cash
+83,2026-09-13 11:08:54,Desk,Furniture,1,300.0,Butwal,cash
+84,2026-09-23 09:54:21,Keyboard,Electronics,5,45.0,Biratnagar,card
+85,2026-09-09 03:58:47,Desk,Furniture,5,300.0,Biratnagar,cash
+86,2026-09-06 15:37:46,Desk Chair,Furniture,3,180.0,Bhaktapur,mobile_payment
+87,2026-09-20 06:22:13,Notebook,Stationery,2,5.0,Pokhara,mobile_payment
+88,2026-09-05 07:50:14,Pen,Stationery,5,2.0,Butwal,card
+89,2026-09-04 17:58:49,Desk Chair,Furniture,5,180.0,Biratnagar,card
+90,2026-09-08 04:36:03,Laptop,Electronics,3,850.0,Butwal,cash
+91,2026-09-25 19:16:50,Monitor,Electronics,2,220.0,Bhaktapur,card
+92,2026-09-18 18:00:39,Backpack,Accessories,1,55.0,Biratnagar,mobile_payment
+93,2026-09-27 11:20:33,Mouse,Electronics,4,25.0,Pokhara,mobile_payment
+94,2026-09-25 16:23:50,Desk Chair,Furniture,4,180.0,Lalitpur,cash
+95,2026-09-25 10:29:42,Mouse,Electronics,1,25.0,Butwal,cash
+96,2026-09-29 18:58:25,Monitor,Electronics,2,220.0,Pokhara,cash
+97,2026-09-05 01:19:01,Mouse,Electronics,2,25.0,Bhaktapur,mobile_payment
+98,2026-09-12 15:17:16,Laptop,Electronics,2,850.0,Pokhara,mobile_payment
+99,2026-09-03 19:25:15,Notebook,Stationery,1,5.0,Butwal,card
+100,2026-09-29 03:02:47,Mouse,Electronics,2,25.0,Butwal,cash
+101,2026-09-08 10:51:14,Mouse,Electronics,5,25.0,Lalitpur,card
+102,2026-09-23 07:00:35,Headphones,Electronics,5,90.0,Bhaktapur,cash
+103,2026-09-03 13:16:16,Pen,Stationery,1,2.0,Pokhara,mobile_payment
+104,2026-09-19 08:00:53,Notebook,Stationery,5,5.0,Butwal,cash
+105,2026-09-18 17:46:25,Monitor,Electronics,4,220.0,Biratnagar,cash
+106,2026-09-20 19:43:10,Pen,Stationery,4,2.0,Lalitpur,mobile_payment
+107,2026-09-12 07:14:57,Desk Chair,Furniture,2,180.0,Kathmandu,card
+108,2026-09-15 03:39:20,Laptop,Electronics,4,850.0,Pokhara,card
+109,2026-09-20 13:06:35,Pen,Stationery,4,2.0,Biratnagar,card
+110,2026-09-25 15:20:05,Keyboard,Electronics,4,45.0,Biratnagar,cash
+111,2026-09-10 11:01:03,Desk,Furniture,5,300.0,Lalitpur,mobile_payment
+112,2026-09-19 17:17:18,Desk,Furniture,2,300.0,Bhaktapur,mobile_payment
+113,2026-09-25 10:33:24,Desk,Furniture,5,300.0,Butwal,mobile_payment
+114,2026-09-23 14:31:28,Desk,Furniture,1,300.0,Biratnagar,cash
+115,2026-09-25 11:35:25,Headphones,Electronics,2,90.0,Bhaktapur,card
+116,2026-09-26 23:53:18,Keyboard,Electronics,5,45.0,Lalitpur,card
+117,2026-09-30 06:31:33,Mouse,Electronics,2,25.0,Kathmandu,card
+118,2026-09-12 01:51:04,Pen,Stationery,2,2.0,Kathmandu,cash
+119,2026-09-07 09:33:55,Monitor,Electronics,2,220.0,Butwal,mobile_payment
+120,2026-09-06 04:02:51,Desk,Furniture,5,300.0,Pokhara,cash
+121,2026-09-19 16:17:16,Laptop,Electronics,1,850.0,Biratnagar,mobile_payment
+122,2026-09-07 13:07:23,Backpack,Accessories,4,55.0,Lalitpur,cash
+123,2026-09-09 12:38:07,Monitor,Electronics,2,220.0,Pokhara,cash
+124,2026-09-24 09:49:26,Monitor,Electronics,5,220.0,Bhaktapur,mobile_payment
+125,2026-09-10 05:35:04,Notebook,Stationery,3,5.0,Bhaktapur,cash
+126,2026-09-26 05:09:53,Pen,Stationery,2,2.0,Lalitpur,card
+127,2026-09-09 08:04:35,Pen,Stationery,3,2.0,Butwal,cash
+128,2026-09-12 21:11:42,Pen,Stationery,4,2.0,Bhaktapur,mobile_payment
+129,2026-09-30 04:39:19,Desk Chair,Furniture,1,180.0,Butwal,cash
+130,2026-09-18 14:47:55,Desk Chair,Furniture,5,180.0,Biratnagar,cash
+131,2026-09-08 17:19:14,Desk,Furniture,5,300.0,Lalitpur,card
+132,2026-09-11 10:33:06,Monitor,Electronics,5,220.0,Lalitpur,mobile_payment
+133,2026-09-11 10:15:31,Monitor,Electronics,3,220.0,Pokhara,cash
+134,2026-09-15 14:39:05,Desk Chair,Furniture,3,180.0,Pokhara,mobile_payment
+135,2026-09-22 17:32:45,Keyboard,Electronics,2,45.0,Pokhara,card
+136,2026-09-28 15:11:51,Notebook,Stationery,2,5.0,Bhaktapur,cash
+137,2026-09-04 11:05:25,Keyboard,Electronics,4,45.0,Kathmandu,cash
+138,2026-09-22 11:06:48,Desk,Furniture,5,300.0,Kathmandu,card
+139,2026-09-27 07:27:49,Desk,Furniture,2,300.0,Butwal,cash
+140,2026-09-27 19:22:27,Notebook,Stationery,4,5.0,Butwal,cash
+141,2026-09-11 19:43:15,Monitor,Electronics,3,220.0,Kathmandu,mobile_payment
+142,2026-09-01 17:00:38,Pen,Stationery,2,2.0,Kathmandu,card
+143,2026-09-09 07:50:47,Pen,Stationery,1,2.0,Biratnagar,cash
+144,2026-09-19 05:51:31,Mouse,Electronics,4,25.0,Pokhara,cash
+145,2026-09-04 20:57:41,Notebook,Stationery,4,5.0,Biratnagar,cash
+146,2026-09-11 08:50:38,Backpack,Accessories,4,55.0,Bhaktapur,card
+147,2026-09-15 00:34:56,Notebook,Stationery,1,5.0,Bhaktapur,mobile_payment
+148,2026-09-05 23:05:30,Notebook,Stationery,3,5.0,Lalitpur,mobile_payment
+149,2026-09-10 15:11:06,Backpack,Accessories,3,55.0,Lalitpur,card
+150,2026-10-01 17:39:02,Notebook,Stationery,3,5.0,Biratnagar,card
+151,2026-09-18 06:17:02,Desk Chair,Furniture,3,180.0,Bhaktapur,mobile_payment
+152,2026-09-04 03:04:48,Monitor,Electronics,5,220.0,Bhaktapur,cash
+153,2026-09-06 07:04:24,Mouse,Electronics,1,25.0,Butwal,mobile_payment
+154,2026-09-18 07:53:25,Notebook,Stationery,2,5.0,Lalitpur,card
+155,2026-10-01 02:20:12,Backpack,Accessories,5,55.0,Biratnagar,mobile_payment
+156,2026-09-21 08:33:35,Pen,Stationery,4,2.0,Bhaktapur,cash
+157,2026-09-02 22:13:29,Desk Chair,Furniture,1,180.0,Lalitpur,cash
+158,2026-09-21 21:50:24,Monitor,Electronics,1,220.0,Lalitpur,cash
+159,2026-09-06 04:23:54,Backpack,Accessories,3,55.0,Butwal,cash
+160,2026-09-28 10:43:26,Mouse,Electronics,2,25.0,Butwal,cash
+161,2026-09-12 20:49:57,Mouse,Electronics,4,25.0,Biratnagar,card
+162,2026-09-29 07:34:36,Pen,Stationery,1,2.0,Butwal,cash
+163,2026-09-22 22:30:37,Keyboard,Electronics,4,45.0,Bhaktapur,card
+164,2026-09-03 15:35:58,Pen,Stationery,1,2.0,Bhaktapur,card
+165,2026-09-01 17:32:01,Headphones,Electronics,1,90.0,Pokhara,mobile_payment
+166,2026-09-12 08:57:29,Laptop,Electronics,3,850.0,Bhaktapur,cash
+167,2026-09-26 17:05:07,Keyboard,Electronics,1,45.0,Kathmandu,mobile_payment
+168,2026-09-17 02:48:02,Mouse,Electronics,5,25.0,Biratnagar,mobile_payment
+169,2026-09-10 09:47:16,Mouse,Electronics,2,25.0,Bhaktapur,mobile_payment
+170,2026-09-17 03:26:13,Headphones,Electronics,1,90.0,Bhaktapur,mobile_payment
+171,2026-09-19 03:31:44,Pen,Stationery,3,2.0,Lalitpur,cash
+172,2026-09-20 12:46:14,Desk,Furniture,2,300.0,Bhaktapur,card
+173,2026-09-04 09:13:30,Monitor,Electronics,3,220.0,Biratnagar,mobile_payment
+174,2026-09-19 23:45:15,Mouse,Electronics,2,25.0,Pokhara,mobile_payment
+175,2026-09-02 20:55:29,Pen,Stationery,5,2.0,Lalitpur,cash
+176,2026-09-29 22:26:14,Notebook,Stationery,5,5.0,Kathmandu,cash
+177,2026-09-28 18:04:56,Monitor,Electronics,5,220.0,Bhaktapur,cash
+178,2026-09-05 11:10:34,Mouse,Electronics,1,25.0,Bhaktapur,card
+179,2026-09-13 13:47:37,Laptop,Electronics,1,850.0,Butwal,mobile_payment
+180,2026-09-22 21:06:31,Desk Chair,Furniture,4,180.0,Kathmandu,cash
+181,2026-09-22 02:12:34,Mouse,Electronics,5,25.0,Bhaktapur,mobile_payment
+182,2026-09-03 22:14:28,Keyboard,Electronics,2,45.0,Biratnagar,cash
+183,2026-09-23 04:40:22,Laptop,Electronics,3,850.0,Pokhara,mobile_payment
+184,2026-09-26 20:24:14,Mouse,Electronics,4,25.0,Biratnagar,cash
+185,2026-09-18 20:51:44,Pen,Stationery,3,2.0,Bhaktapur,cash
+186,2026-09-25 06:17:31,Headphones,Electronics,2,90.0,Kathmandu,cash
+187,2026-09-21 12:58:22,Monitor,Electronics,5,220.0,Lalitpur,mobile_payment
+188,2026-09-12 14:30:25,Headphones,Electronics,1,90.0,Bhaktapur,card
+189,2026-09-19 09:18:28,Laptop,Electronics,3,850.0,Bhaktapur,card
+190,2026-09-13 07:17:19,Keyboard,Electronics,3,45.0,Bhaktapur,cash
+191,2026-09-24 13:45:42,Pen,Stationery,5,2.0,Butwal,cash
+192,2026-09-21 22:31:52,Desk Chair,Furniture,2,180.0,Kathmandu,card
+193,2026-09-04 19:11:02,Desk Chair,Furniture,3,180.0,Butwal,mobile_payment
+194,2026-09-14 13:25:00,Monitor,Electronics,2,220.0,Butwal,card
+195,2026-09-02 08:14:27,Laptop,Electronics,3,850.0,Kathmandu,cash
+196,2026-09-30 01:37:27,Notebook,Stationery,2,5.0,Kathmandu,card
+197,2026-09-17 08:05:07,Desk,Furniture,4,300.0,Butwal,mobile_payment
+198,2026-09-20 00:55:51,Mouse,Electronics,1,25.0,Bhaktapur,mobile_payment
+199,2026-09-15 17:14:24,Mouse,Electronics,3,25.0,Kathmandu,cash
+200,2026-09-05 14:58:07,Backpack,Accessories,3,55.0,Biratnagar,card
+201,2026-09-02 22:52:37,Keyboard,Electronics,1,45.0,Kathmandu,card
+202,2026-09-10 11:08:11,Desk,Furniture,1,300.0,Bhaktapur,mobile_payment
+203,2026-09-06 09:22:09,Monitor,Electronics,4,220.0,Lalitpur,card
+204,2026-09-12 02:35:56,Desk Chair,Furniture,1,180.0,Pokhara,cash
+205,2026-09-30 10:55:25,Desk,Furniture,3,300.0,Pokhara,mobile_payment
+206,2026-09-15 04:17:00,Mouse,Electronics,3,25.0,Bhaktapur,cash
+207,2026-09-14 08:08:34,Desk Chair,Furniture,1,180.0,Bhaktapur,card
+208,2026-09-01 12:39:38,Pen,Stationery,1,2.0,Biratnagar,mobile_payment
+209,2026-09-10 11:01:12,Desk,Furniture,3,300.0,Butwal,cash
+210,2026-09-27 16:47:46,Monitor,Electronics,5,220.0,Bhaktapur,card
+211,2026-09-20 13:54:25,Desk Chair,Furniture,4,180.0,Butwal,cash
+212,2026-09-17 14:01:44,Headphones,Electronics,5,90.0,Lalitpur,card
+213,2026-09-23 18:31:33,Headphones,Electronics,1,90.0,Butwal,card
+214,2026-09-24 10:43:38,Mouse,Electronics,4,25.0,Pokhara,cash
+215,2026-09-30 16:26:00,Backpack,Accessories,3,55.0,Lalitpur,mobile_payment
+216,2026-09-12 22:19:26,Backpack,Accessories,1,55.0,Bhaktapur,cash
+217,2026-09-01 13:58:39,Backpack,Accessories,4,55.0,Biratnagar,cash
+218,2026-09-29 14:14:02,Desk Chair,Furniture,1,180.0,Biratnagar,cash
+219,2026-09-06 22:21:35,Backpack,Accessories,5,55.0,Pokhara,cash
+220,2026-09-05 11:15:34,Monitor,Electronics,5,220.0,Biratnagar,cash
+221,2026-09-15 12:05:13,Keyboard,Electronics,3,45.0,Lalitpur,card
+222,2026-09-06 11:19:05,Keyboard,Electronics,2,45.0,Pokhara,cash
+223,2026-09-25 15:04:06,Pen,Stationery,2,2.0,Bhaktapur,mobile_payment
+224,2026-09-28 03:11:41,Keyboard,Electronics,2,45.0,Pokhara,cash
+225,2026-09-22 07:32:13,Headphones,Electronics,2,90.0,Biratnagar,mobile_payment
+226,2026-09-09 23:38:03,Desk,Furniture,5,300.0,Butwal,card
+227,2026-10-01 11:15:39,Notebook,Stationery,2,5.0,Pokhara,cash
+228,2026-09-30 03:40:42,Laptop,Electronics,1,850.0,Biratnagar,card
+229,2026-09-18 11:02:53,Headphones,Electronics,4,90.0,Pokhara,cash
+230,2026-09-25 08:06:01,Keyboard,Electronics,4,45.0,Bhaktapur,mobile_payment
+231,2026-10-01 10:48:59,Notebook,Stationery,5,5.0,Lalitpur,card
+232,2026-09-14 10:14:49,Notebook,Stationery,5,5.0,Biratnagar,mobile_payment
+233,2026-09-11 11:19:19,Notebook,Stationery,2,5.0,Biratnagar,cash
+234,2026-09-09 15:49:58,Monitor,Electronics,2,220.0,Kathmandu,cash
+235,2026-09-07 19:00:07,Keyboard,Electronics,4,45.0,Bhaktapur,cash
+236,2026-09-24 06:49:22,Keyboard,Electronics,4,45.0,Biratnagar,mobile_payment
+237,2026-09-25 18:25:38,Desk Chair,Furniture,2,180.0,Bhaktapur,cash
+238,2026-09-09 23:15:41,Headphones,Electronics,5,90.0,Lalitpur,card
+239,2026-09-16 14:34:43,Monitor,Electronics,1,220.0,Kathmandu,mobile_payment
+240,2026-09-26 16:02:11,Desk Chair,Furniture,3,180.0,Butwal,mobile_payment
+241,2026-09-24 08:28:07,Backpack,Accessories,4,55.0,Butwal,mobile_payment
+242,2026-09-25 12:39:46,Headphones,Electronics,2,90.0,Kathmandu,mobile_payment
+243,2026-10-01 07:52:33,Monitor,Electronics,4,220.0,Biratnagar,mobile_payment
+244,2026-09-24 14:14:44,Pen,Stationery,3,2.0,Biratnagar,card
+245,2026-09-11 08:15:16,Desk,Furniture,3,300.0,Biratnagar,card
+246,2026-09-16 00:50:56,Keyboard,Electronics,1,45.0,Biratnagar,cash
+247,2026-09-11 11:05:50,Desk Chair,Furniture,5,180.0,Biratnagar,cash
+248,2026-09-22 05:46:42,Laptop,Electronics,5,850.0,Kathmandu,card
+249,2026-09-02 02:29:21,Keyboard,Electronics,3,45.0,Pokhara,cash
+250,2026-09-27 05:25:23,Keyboard,Electronics,2,45.0,Pokhara,card
+251,2026-09-01 09:01:16,Desk,Furniture,4,300.0,Pokhara,mobile_payment
+252,2026-10-01 11:54:28,Notebook,Stationery,4,5.0,Biratnagar,card
+253,2026-09-24 12:50:57,Mouse,Electronics,3,25.0,Lalitpur,mobile_payment
+254,2026-09-23 11:59:45,Mouse,Electronics,4,25.0,Bhaktapur,cash
+255,2026-09-10 07:38:59,Pen,Stationery,4,2.0,Pokhara,mobile_payment
+256,2026-10-01 12:49:24,Desk,Furniture,1,300.0,Lalitpur,mobile_payment
+257,2026-09-04 02:23:07,Notebook,Stationery,2,5.0,Butwal,card
+258,2026-10-01 09:59:57,Laptop,Electronics,3,850.0,Bhaktapur,mobile_payment
+259,2026-09-19 08:15:42,Headphones,Electronics,1,90.0,Butwal,card
+260,2026-09-26 19:59:23,Headphones,Electronics,4,90.0,Lalitpur,mobile_payment
+261,2026-09-25 19:48:52,Mouse,Electronics,1,25.0,Bhaktapur,mobile_payment
+262,2026-09-16 09:04:32,Desk,Furniture,2,300.0,Biratnagar,cash
+263,2026-09-20 00:03:20,Notebook,Stationery,1,5.0,Kathmandu,card
+264,2026-09-09 14:43:06,Laptop,Electronics,3,850.0,Pokhara,cash
+265,2026-09-20 04:38:04,Mouse,Electronics,1,25.0,Biratnagar,mobile_payment
+266,2026-09-29 07:02:39,Monitor,Electronics,4,220.0,Biratnagar,mobile_payment
+267,2026-09-25 16:26:05,Pen,Stationery,4,2.0,Biratnagar,mobile_payment
+268,2026-09-01 20:47:26,Laptop,Electronics,2,850.0,Kathmandu,cash
+269,2026-09-04 02:24:21,Pen,Stationery,3,2.0,Bhaktapur,cash
+270,2026-09-18 12:50:27,Desk,Furniture,5,300.0,Pokhara,card
+271,2026-09-28 04:19:43,Desk,Furniture,5,300.0,Bhaktapur,card
+272,2026-09-24 01:27:30,Headphones,Electronics,4,90.0,Bhaktapur,mobile_payment
+273,2026-09-22 08:14:35,Mouse,Electronics,5,25.0,Lalitpur,mobile_payment
+274,2026-09-03 06:44:28,Keyboard,Electronics,5,45.0,Bhaktapur,card
+275,2026-09-21 03:46:47,Headphones,Electronics,1,90.0,Butwal,mobile_payment
+276,2026-09-10 17:31:19,Notebook,Stationery,5,5.0,Pokhara,mobile_payment
+277,2026-09-20 10:13:22,Headphones,Electronics,4,90.0,Kathmandu,cash
+278,2026-09-20 20:56:17,Notebook,Stationery,2,5.0,Butwal,cash
+279,2026-09-21 14:39:58,Mouse,Electronics,4,25.0,Biratnagar,card
+280,2026-09-25 18:29:13,Desk Chair,Furniture,3,180.0,Lalitpur,mobile_payment
+281,2026-09-01 04:43:26,Monitor,Electronics,1,220.0,Pokhara,card
+282,2026-09-25 18:55:15,Mouse,Electronics,1,25.0,Pokhara,card
+283,2026-09-22 01:38:35,Laptop,Electronics,5,850.0,Kathmandu,mobile_payment
+284,2026-09-10 13:56:50,Laptop,Electronics,4,850.0,Kathmandu,card
+285,2026-09-21 09:04:47,Mouse,Electronics,3,25.0,Biratnagar,mobile_payment
+286,2026-09-07 20:12:02,Monitor,Electronics,3,220.0,Bhaktapur,cash
+287,2026-09-17 05:51:35,Desk,Furniture,1,300.0,Biratnagar,card
+288,2026-09-19 11:47:10,Backpack,Accessories,4,55.0,Biratnagar,cash
+289,2026-09-04 06:11:58,Laptop,Electronics,4,850.0,Lalitpur,mobile_payment
+290,2026-09-07 19:25:28,Headphones,Electronics,2,90.0,Bhaktapur,card
+291,2026-09-10 14:04:26,Desk Chair,Furniture,5,180.0,Lalitpur,mobile_payment
+292,2026-09-07 18:04:17,Keyboard,Electronics,3,45.0,Biratnagar,card
+293,2026-09-11 05:21:57,Headphones,Electronics,5,90.0,Lalitpur,cash
+294,2026-09-03 18:39:16,Keyboard,Electronics,4,45.0,Bhaktapur,cash
+295,2026-09-21 05:31:29,Headphones,Electronics,2,90.0,Biratnagar,card
+296,2026-09-02 22:36:03,Notebook,Stationery,5,5.0,Butwal,card
+297,2026-09-04 07:02:31,Notebook,Stationery,4,5.0,Butwal,card
+298,2026-09-02 13:53:28,Notebook,Stationery,5,5.0,Bhaktapur,card
+299,2026-09-09 15:36:12,Keyboard,Electronics,1,45.0,Bhaktapur,mobile_payment
+300,2026-09-21 18:34:48,Notebook,Stationery,5,5.0,Biratnagar,card
+301,2026-09-16 21:32:50,Laptop,Electronics,3,850.0,Lalitpur,card
+302,2026-09-12 23:59:58,Notebook,Stationery,3,5.0,Biratnagar,cash
+303,2026-09-20 13:35:07,Backpack,Accessories,3,55.0,Kathmandu,cash
+304,2026-09-03 16:15:52,Desk Chair,Furniture,5,180.0,Kathmandu,card
+305,2026-09-17 13:55:41,Pen,Stationery,4,2.0,Lalitpur,cash
+306,2026-09-24 08:18:43,Desk,Furniture,4,300.0,Butwal,card
+307,2026-09-29 00:12:53,Backpack,Accessories,4,55.0,Pokhara,cash
+308,2026-09-16 01:49:46,Pen,Stationery,3,2.0,Kathmandu,mobile_payment
+309,2026-09-30 09:59:42,Notebook,Stationery,1,5.0,Biratnagar,mobile_payment
+310,2026-09-27 10:34:12,Keyboard,Electronics,1,45.0,Bhaktapur,mobile_payment
+311,2026-09-29 13:48:57,Backpack,Accessories,3,55.0,Butwal,mobile_payment
+312,2026-09-25 12:34:29,Mouse,Electronics,5,25.0,Bhaktapur,cash
+313,2026-09-05 02:02:36,Pen,Stationery,5,2.0,Bhaktapur,mobile_payment
+314,2026-09-01 02:45:02,Mouse,Electronics,2,25.0,Lalitpur,mobile_payment
+315,2026-09-26 11:37:30,Laptop,Electronics,1,850.0,Bhaktapur,mobile_payment
+316,2026-09-21 23:43:30,Monitor,Electronics,2,220.0,Biratnagar,mobile_payment
+317,2026-09-07 00:18:36,Monitor,Electronics,1,220.0,Bhaktapur,cash
+318,2026-09-30 12:00:02,Desk,Furniture,4,300.0,Butwal,mobile_payment
+319,2026-09-15 06:43:27,Monitor,Electronics,4,220.0,Pokhara,cash
+320,2026-09-08 15:26:37,Desk Chair,Furniture,3,180.0,Lalitpur,card
+321,2026-09-30 03:14:26,Mouse,Electronics,4,25.0,Butwal,mobile_payment
+322,2026-09-18 08:10:23,Desk,Furniture,1,300.0,Kathmandu,cash
+323,2026-09-19 14:43:00,Notebook,Stationery,3,5.0,Pokhara,mobile_payment
+324,2026-09-12 08:46:35,Notebook,Stationery,3,5.0,Pokhara,cash
+325,2026-09-24 13:52:45,Monitor,Electronics,1,220.0,Lalitpur,card
+326,2026-09-07 05:36:34,Mouse,Electronics,1,25.0,Bhaktapur,card
+327,2026-09-02 13:39:39,Desk Chair,Furniture,1,180.0,Lalitpur,mobile_payment
+328,2026-09-12 15:04:31,Mouse,Electronics,5,25.0,Pokhara,mobile_payment
+329,2026-09-20 23:16:17,Notebook,Stationery,5,5.0,Bhaktapur,card
+330,2026-09-08 00:44:37,Headphones,Electronics,1,90.0,Biratnagar,mobile_payment
+331,2026-09-17 13:29:19,Desk,Furniture,2,300.0,Biratnagar,card
+332,2026-09-17 04:05:13,Laptop,Electronics,5,850.0,Kathmandu,mobile_payment
+333,2026-09-20 19:31:12,Notebook,Stationery,2,5.0,Bhaktapur,cash
+334,2026-09-28 10:55:27,Desk,Furniture,4,300.0,Pokhara,mobile_payment
+335,2026-09-26 08:42:11,Monitor,Electronics,3,220.0,Bhaktapur,mobile_payment
+336,2026-09-15 04:57:46,Headphones,Electronics,1,90.0,Lalitpur,card
+337,2026-09-07 00:09:41,Backpack,Accessories,4,55.0,Biratnagar,cash
+338,2026-09-18 04:10:18,Desk,Furniture,3,300.0,Pokhara,card
+339,2026-09-27 06:41:50,Pen,Stationery,3,2.0,Lalitpur,cash
+340,2026-09-23 10:43:19,Backpack,Accessories,3,55.0,Pokhara,mobile_payment
+341,2026-09-11 20:03:46,Notebook,Stationery,3,5.0,Bhaktapur,mobile_payment
+342,2026-09-01 21:54:21,Desk,Furniture,1,300.0,Pokhara,cash
+343,2026-09-30 17:38:38,Desk Chair,Furniture,3,180.0,Kathmandu,mobile_payment
+344,2026-09-20 19:33:49,Keyboard,Electronics,1,45.0,Bhaktapur,mobile_payment
+345,2026-09-16 03:55:07,Backpack,Accessories,1,55.0,Pokhara,cash
+346,2026-09-21 10:02:43,Keyboard,Electronics,5,45.0,Butwal,mobile_payment
+347,2026-09-26 21:30:58,Laptop,Electronics,2,850.0,Lalitpur,mobile_payment
+348,2026-09-27 20:53:13,Monitor,Electronics,4,220.0,Bhaktapur,mobile_payment
+349,2026-09-22 13:34:18,Mouse,Electronics,5,25.0,Pokhara,mobile_payment
+350,2026-09-17 04:38:10,Keyboard,Electronics,1,45.0,Bhaktapur,cash
+351,2026-09-30 21:56:44,Headphones,Electronics,3,90.0,Bhaktapur,cash
+352,2026-09-05 19:00:30,Monitor,Electronics,5,220.0,Biratnagar,mobile_payment
+353,2026-09-18 15:05:50,Mouse,Electronics,1,25.0,Lalitpur,card
+354,2026-09-30 01:05:36,Desk Chair,Furniture,1,180.0,Bhaktapur,cash
+355,2026-09-23 19:16:22,Pen,Stationery,4,2.0,Biratnagar,cash
+356,2026-09-12 07:10:42,Desk,Furniture,4,300.0,Pokhara,card
+357,2026-10-01 09:39:02,Desk Chair,Furniture,2,180.0,Kathmandu,card
+358,2026-09-07 08:35:49,Desk,Furniture,3,300.0,Lalitpur,cash
+359,2026-09-26 02:49:41,Notebook,Stationery,5,5.0,Bhaktapur,card
+360,2026-09-14 17:55:07,Desk,Furniture,4,300.0,Pokhara,card
+361,2026-09-14 02:38:36,Desk Chair,Furniture,4,180.0,Lalitpur,cash
+362,2026-10-01 03:56:17,Backpack,Accessories,1,55.0,Lalitpur,cash
+363,2026-09-21 19:59:59,Headphones,Electronics,1,90.0,Biratnagar,cash
+364,2026-09-10 21:48:05,Desk,Furniture,3,300.0,Bhaktapur,mobile_payment
+365,2026-09-02 21:43:38,Pen,Stationery,4,2.0,Biratnagar,cash
+366,2026-09-06 22:50:27,Notebook,Stationery,4,5.0,Lalitpur,mobile_payment
+367,2026-09-29 09:43:01,Headphones,Electronics,2,90.0,Pokhara,card
+368,2026-09-06 12:57:36,Headphones,Electronics,2,90.0,Pokhara,card
+369,2026-09-18 20:35:45,Notebook,Stationery,4,5.0,Biratnagar,cash
+370,2026-09-23 21:27:29,Notebook,Stationery,3,5.0,Kathmandu,mobile_payment
+371,2026-09-20 21:12:16,Pen,Stationery,2,2.0,Kathmandu,cash
+372,2026-09-11 17:52:55,Desk Chair,Furniture,3,180.0,Kathmandu,card
+373,2026-09-06 01:20:29,Desk,Furniture,5,300.0,Biratnagar,mobile_payment
+374,2026-09-19 18:40:35,Pen,Stationery,3,2.0,Kathmandu,cash
+375,2026-09-10 21:22:15,Keyboard,Electronics,3,45.0,Butwal,card
+376,2026-09-27 11:45:24,Desk,Furniture,1,300.0,Pokhara,mobile_payment
+377,2026-09-30 01:01:16,Monitor,Electronics,3,220.0,Lalitpur,mobile_payment
+378,2026-10-01 08:16:01,Desk Chair,Furniture,4,180.0,Biratnagar,cash
+379,2026-09-27 23:25:26,Mouse,Electronics,2,25.0,Biratnagar,mobile_payment
+380,2026-09-14 20:46:48,Backpack,Accessories,3,55.0,Butwal,mobile_payment
+381,2026-09-10 02:02:29,Backpack,Accessories,1,55.0,Lalitpur,card
+382,2026-09-17 06:18:17,Desk,Furniture,4,300.0,Lalitpur,card
+383,2026-09-03 12:25:34,Notebook,Stationery,2,5.0,Butwal,card
+384,2026-09-01 16:39:59,Headphones,Electronics,5,90.0,Butwal,card
+385,2026-09-03 20:59:34,Keyboard,Electronics,2,45.0,Lalitpur,mobile_payment
+386,2026-09-24 16:36:42,Monitor,Electronics,1,220.0,Butwal,mobile_payment
+387,2026-09-26 10:40:30,Desk,Furniture,3,300.0,Kathmandu,card
+388,2026-09-04 19:04:29,Mouse,Electronics,3,25.0,Pokhara,card
+389,2026-09-17 09:54:51,Headphones,Electronics,4,90.0,Pokhara,card
+390,2026-09-05 07:31:09,Backpack,Accessories,1,55.0,Biratnagar,cash
+391,2026-10-01 12:51:58,Desk Chair,Furniture,3,180.0,Kathmandu,card
+392,2026-09-12 13:02:41,Pen,Stationery,2,2.0,Biratnagar,cash
+393,2026-09-19 03:39:39,Headphones,Electronics,3,90.0,Kathmandu,card
+394,2026-09-26 07:05:47,Notebook,Stationery,1,5.0,Butwal,cash
+395,2026-09-30 11:26:20,Headphones,Electronics,3,90.0,Kathmandu,mobile_payment
+396,2026-09-10 18:40:03,Desk Chair,Furniture,2,180.0,Pokhara,card
+397,2026-09-29 16:02:40,Monitor,Electronics,4,220.0,Lalitpur,cash
+398,2026-10-01 07:44:57,Mouse,Electronics,1,25.0,Butwal,card
+399,2026-09-23 18:38:05,Keyboard,Electronics,4,45.0,Biratnagar,card
+400,2026-09-30 02:16:31,Desk Chair,Furniture,3,180.0,Biratnagar,mobile_payment
+401,2026-09-14 02:18:28,Desk,Furniture,4,300.0,Kathmandu,mobile_payment
+402,2026-09-26 07:15:26,Mouse,Electronics,4,25.0,Kathmandu,card
+403,2026-09-15 13:54:47,Backpack,Accessories,2,55.0,Bhaktapur,card
+404,2026-09-23 13:34:00,Headphones,Electronics,4,90.0,Kathmandu,mobile_payment
+405,2026-09-11 05:02:35,Backpack,Accessories,5,55.0,Bhaktapur,card
+406,2026-09-30 06:42:43,Monitor,Electronics,4,220.0,Bhaktapur,cash
+407,2026-09-20 07:37:28,Keyboard,Electronics,3,45.0,Butwal,card
+408,2026-09-04 07:48:00,Keyboard,Electronics,1,45.0,Bhaktapur,mobile_payment
+409,2026-09-16 22:26:58,Laptop,Electronics,3,850.0,Bhaktapur,mobile_payment
+410,2026-09-04 15:16:09,Desk Chair,Furniture,4,180.0,Lalitpur,card
+411,2026-09-18 08:40:20,Monitor,Electronics,2,220.0,Butwal,mobile_payment
+412,2026-09-14 20:11:07,Desk Chair,Furniture,1,180.0,Pokhara,card
+413,2026-09-10 21:51:38,Desk Chair,Furniture,1,180.0,Biratnagar,card
+414,2026-09-09 09:30:04,Monitor,Electronics,2,220.0,Butwal,mobile_payment
+415,2026-09-22 09:27:05,Keyboard,Electronics,1,45.0,Biratnagar,cash
+416,2026-09-04 17:07:07,Headphones,Electronics,4,90.0,Lalitpur,mobile_payment
+417,2026-09-23 17:31:01,Notebook,Stationery,5,5.0,Pokhara,cash
+418,2026-09-26 01:24:58,Monitor,Electronics,4,220.0,Butwal,cash
+419,2026-09-27 00:33:17,Desk Chair,Furniture,5,180.0,Pokhara,mobile_payment
+420,2026-09-20 08:33:15,Notebook,Stationery,3,5.0,Pokhara,mobile_payment
+421,2026-09-02 14:44:33,Headphones,Electronics,4,90.0,Pokhara,mobile_payment
+422,2026-09-22 14:39:01,Laptop,Electronics,3,850.0,Pokhara,card
+423,2026-09-30 18:38:17,Keyboard,Electronics,4,45.0,Butwal,card
+424,2026-10-01 15:56:21,Mouse,Electronics,3,25.0,Pokhara,cash
+425,2026-09-19 23:35:58,Laptop,Electronics,4,850.0,Butwal,cash
+426,2026-09-09 04:13:36,Monitor,Electronics,4,220.0,Butwal,mobile_payment
+427,2026-09-19 17:48:42,Mouse,Electronics,3,25.0,Biratnagar,mobile_payment
+428,2026-09-17 12:35:25,Keyboard,Electronics,4,45.0,Butwal,card
+429,2026-09-10 17:29:07,Pen,Stationery,1,2.0,Butwal,card
+430,2026-09-05 11:52:41,Headphones,Electronics,1,90.0,Lalitpur,cash
+431,2026-09-23 03:04:11,Mouse,Electronics,4,25.0,Lalitpur,mobile_payment
+432,2026-09-11 13:26:26,Desk Chair,Furniture,5,180.0,Lalitpur,card
+433,2026-09-11 16:32:01,Notebook,Stationery,5,5.0,Butwal,cash
+434,2026-09-16 06:04:57,Notebook,Stationery,5,5.0,Bhaktapur,cash
+435,2026-09-19 07:01:48,Laptop,Electronics,2,850.0,Butwal,mobile_payment
+436,2026-09-13 18:35:36,Desk,Furniture,2,300.0,Bhaktapur,cash
+437,2026-09-05 19:23:58,Notebook,Stationery,1,5.0,Lalitpur,cash
+438,2026-09-24 16:24:57,Desk Chair,Furniture,3,180.0,Kathmandu,cash
+439,2026-09-05 16:03:35,Mouse,Electronics,2,25.0,Lalitpur,card
+440,2026-09-11 23:05:11,Monitor,Electronics,5,220.0,Butwal,card
+441,2026-09-07 06:49:42,Notebook,Stationery,3,5.0,Lalitpur,card
+442,2026-09-16 06:18:00,Pen,Stationery,5,2.0,Kathmandu,card
+443,2026-09-29 02:26:32,Headphones,Electronics,5,90.0,Butwal,cash
+444,2026-09-13 16:52:11,Pen,Stationery,4,2.0,Bhaktapur,card
+445,2026-09-05 03:04:59,Laptop,Electronics,2,850.0,Kathmandu,mobile_payment
+446,2026-09-04 13:06:33,Keyboard,Electronics,3,45.0,Pokhara,card
+447,2026-09-18 19:46:05,Mouse,Electronics,2,25.0,Pokhara,mobile_payment
+448,2026-09-23 23:07:04,Mouse,Electronics,3,25.0,Biratnagar,cash
+449,2026-09-06 18:27:46,Desk,Furniture,3,300.0,Pokhara,cash
+450,2026-09-15 21:11:44,Desk Chair,Furniture,1,180.0,Bhaktapur,card
+451,2026-09-13 06:38:48,Monitor,Electronics,5,220.0,Pokhara,card
+452,2026-09-07 04:09:28,Keyboard,Electronics,1,45.0,Lalitpur,card
+453,2026-10-01 15:12:52,Notebook,Stationery,1,5.0,Biratnagar,mobile_payment
+454,2026-09-03 02:08:29,Backpack,Accessories,1,55.0,Butwal,mobile_payment
+455,2026-09-11 04:42:53,Mouse,Electronics,3,25.0,Lalitpur,cash
+456,2026-09-23 02:26:44,Desk Chair,Furniture,2,180.0,Butwal,mobile_payment
+457,2026-09-07 18:39:27,Laptop,Electronics,2,850.0,Lalitpur,mobile_payment
+458,2026-09-21 09:01:06,Headphones,Electronics,4,90.0,Biratnagar,mobile_payment
+459,2026-09-16 06:40:36,Laptop,Electronics,3,850.0,Bhaktapur,card
+460,2026-09-12 08:32:21,Desk Chair,Furniture,3,180.0,Pokhara,mobile_payment
+461,2026-10-01 20:35:11,Backpack,Accessories,1,55.0,Kathmandu,cash
+462,2026-10-01 20:52:07,Desk,Furniture,3,300.0,Butwal,mobile_payment
+463,2026-09-12 16:24:41,Pen,Stationery,2,2.0,Pokhara,mobile_payment
+464,2026-09-09 15:24:51,Desk Chair,Furniture,4,180.0,Lalitpur,mobile_payment
+465,2026-09-24 00:33:40,Desk Chair,Furniture,5,180.0,Bhaktapur,mobile_payment
+466,2026-09-04 05:44:04,Notebook,Stationery,2,5.0,Lalitpur,card
+467,2026-09-07 12:44:02,Pen,Stationery,3,2.0,Pokhara,mobile_payment
+468,2026-09-05 13:45:06,Headphones,Electronics,3,90.0,Butwal,cash
+469,2026-10-01 15:03:40,Desk Chair,Furniture,2,180.0,Biratnagar,cash
+470,2026-09-02 05:48:08,Monitor,Electronics,3,220.0,Kathmandu,card
+471,2026-09-22 18:57:22,Pen,Stationery,3,2.0,Biratnagar,mobile_payment
+472,2026-09-30 02:34:53,Desk,Furniture,2,300.0,Butwal,cash
+473,2026-09-16 08:33:49,Pen,Stationery,5,2.0,Pokhara,cash
+474,2026-09-18 13:00:10,Backpack,Accessories,1,55.0,Lalitpur,cash
+475,2026-09-20 07:54:09,Monitor,Electronics,2,220.0,Lalitpur,card
+476,2026-09-22 00:59:15,Desk Chair,Furniture,3,180.0,Bhaktapur,card
+477,2026-09-25 22:36:42,Laptop,Electronics,5,850.0,Butwal,cash
+478,2026-09-08 17:59:21,Headphones,Electronics,3,90.0,Lalitpur,cash
+479,2026-10-01 06:34:48,Mouse,Electronics,1,25.0,Pokhara,card
+480,2026-09-22 19:35:12,Mouse,Electronics,5,25.0,Lalitpur,card
+481,2026-09-05 13:52:11,Monitor,Electronics,4,220.0,Pokhara,cash
+482,2026-09-15 09:32:22,Mouse,Electronics,3,25.0,Butwal,card
+483,2026-09-02 18:36:57,Desk Chair,Furniture,5,180.0,Kathmandu,mobile_payment
+484,2026-09-21 23:48:36,Pen,Stationery,3,2.0,Butwal,cash
+485,2026-09-11 07:59:52,Keyboard,Electronics,5,45.0,Pokhara,cash
+486,2026-09-09 06:22:45,Desk Chair,Furniture,5,180.0,Butwal,mobile_payment
+487,2026-09-06 19:08:13,Monitor,Electronics,5,220.0,Pokhara,mobile_payment
+488,2026-09-24 05:49:07,Monitor,Electronics,5,220.0,Pokhara,card
+489,2026-10-01 01:20:39,Mouse,Electronics,1,25.0,Bhaktapur,mobile_payment
+490,2026-09-16 11:39:55,Backpack,Accessories,4,55.0,Kathmandu,mobile_payment
+491,2026-09-01 15:57:11,Desk Chair,Furniture,1,180.0,Butwal,cash
+492,2026-09-13 12:58:37,Desk Chair,Furniture,1,180.0,Biratnagar,mobile_payment
+493,2026-09-23 07:32:52,Monitor,Electronics,2,220.0,Biratnagar,cash
+494,2026-09-01 00:38:13,Keyboard,Electronics,4,45.0,Kathmandu,mobile_payment
+495,2026-09-29 14:04:11,Pen,Stationery,1,2.0,Bhaktapur,card
+496,2026-09-22 06:37:53,Backpack,Accessories,1,55.0,Biratnagar,card
+497,2026-09-06 01:26:47,Desk Chair,Furniture,5,180.0,Bhaktapur,card
+498,2026-09-30 10:45:44,Pen,Stationery,5,2.0,Bhaktapur,mobile_payment
+499,2026-09-12 04:20:31,Backpack,Accessories,3,55.0,Pokhara,mobile_payment
+500,2026-10-01 05:57:47,Desk,Furniture,3,300.0,Butwal,cash
+501,2026-09-19 04:05:26,Headphones,Electronics,1,90.0,Butwal,cash
+502,2026-09-20 06:55:27,Mouse,Electronics,5,25.0,Lalitpur,mobile_payment
+503,2026-09-09 04:22:53,Pen,Stationery,4,2.0,Pokhara,mobile_payment
+504,2026-09-21 18:34:55,Desk,Furniture,5,300.0,Bhaktapur,cash
+505,2026-09-20 04:02:22,Keyboard,Electronics,4,45.0,Bhaktapur,mobile_payment
+506,2026-09-08 16:27:02,Notebook,Stationery,3,5.0,Bhaktapur,card
+507,2026-09-04 03:48:23,Desk Chair,Furniture,5,180.0,Butwal,mobile_payment
+508,2026-09-05 00:44:11,Pen,Stationery,4,2.0,Lalitpur,mobile_payment
+509,2026-09-12 13:07:35,Backpack,Accessories,3,55.0,Pokhara,mobile_payment
+510,2026-09-06 07:57:44,Notebook,Stationery,1,5.0,Lalitpur,card
+511,2026-09-13 23:27:02,Notebook,Stationery,3,5.0,Kathmandu,mobile_payment
+512,2026-09-15 11:29:06,Backpack,Accessories,4,55.0,Lalitpur,card
+513,2026-09-20 11:04:45,Pen,Stationery,1,2.0,Butwal,card
+514,2026-09-19 22:49:31,Monitor,Electronics,2,220.0,Pokhara,mobile_payment
+515,2026-09-01 16:11:17,Keyboard,Electronics,2,45.0,Bhaktapur,cash
+516,2026-09-15 19:41:25,Mouse,Electronics,4,25.0,Bhaktapur,cash
+517,2026-09-04 03:32:49,Desk,Furniture,3,300.0,Pokhara,cash
+518,2026-09-24 02:57:39,Pen,Stationery,3,2.0,Butwal,mobile_payment
+519,2026-09-04 10:12:33,Headphones,Electronics,1,90.0,Lalitpur,cash
+520,2026-09-03 16:39:37,Mouse,Electronics,1,25.0,Lalitpur,card
+521,2026-09-27 07:23:11,Monitor,Electronics,4,220.0,Kathmandu,cash
+522,2026-09-20 20:38:36,Laptop,Electronics,4,850.0,Biratnagar,card
+523,2026-09-06 21:01:34,Keyboard,Electronics,3,45.0,Lalitpur,cash
+524,2026-09-30 16:08:54,Mouse,Electronics,4,25.0,Pokhara,cash
+525,2026-09-16 15:16:38,Monitor,Electronics,2,220.0,Butwal,cash
+526,2026-09-24 08:33:33,Keyboard,Electronics,5,45.0,Biratnagar,cash
+527,2026-09-24 20:36:46,Keyboard,Electronics,2,45.0,Biratnagar,mobile_payment
+528,2026-09-30 02:52:52,Desk Chair,Furniture,2,180.0,Butwal,card
+529,2026-09-30 19:47:45,Keyboard,Electronics,3,45.0,Lalitpur,cash
+530,2026-09-17 07:22:59,Desk,Furniture,1,300.0,Butwal,cash
+531,2026-09-21 05:07:38,Backpack,Accessories,4,55.0,Pokhara,mobile_payment
+532,2026-09-23 11:35:03,Pen,Stationery,3,2.0,Pokhara,cash
+533,2026-09-09 00:45:07,Monitor,Electronics,5,220.0,Pokhara,card
+534,2026-09-20 18:39:14,Desk,Furniture,1,300.0,Pokhara,card
+535,2026-09-15 09:44:58,Notebook,Stationery,5,5.0,Biratnagar,card
+536,2026-09-14 21:50:05,Headphones,Electronics,4,90.0,Biratnagar,cash
+537,2026-09-04 04:46:38,Desk,Furniture,5,300.0,Butwal,cash
+538,2026-09-07 06:54:35,Desk,Furniture,1,300.0,Lalitpur,mobile_payment
+539,2026-09-03 21:35:45,Notebook,Stationery,1,5.0,Kathmandu,card
+540,2026-09-17 03:41:05,Mouse,Electronics,2,25.0,Lalitpur,mobile_payment
+541,2026-09-03 06:26:13,Mouse,Electronics,2,25.0,Lalitpur,cash
+542,2026-09-13 01:28:35,Backpack,Accessories,1,55.0,Bhaktapur,cash
+543,2026-09-04 21:39:18,Backpack,Accessories,1,55.0,Butwal,card
+544,2026-09-13 16:51:45,Mouse,Electronics,3,25.0,Pokhara,card
+545,2026-09-26 09:24:31,Headphones,Electronics,2,90.0,Kathmandu,card
+546,2026-09-20 05:49:10,Keyboard,Electronics,5,45.0,Lalitpur,cash
+547,2026-09-09 23:48:03,Mouse,Electronics,5,25.0,Bhaktapur,card
+548,2026-09-28 23:08:57,Notebook,Stationery,4,5.0,Pokhara,card
+549,2026-09-20 06:17:02,Desk Chair,Furniture,3,180.0,Kathmandu,cash
+550,2026-10-01 21:22:36,Backpack,Accessories,2,55.0,Lalitpur,card
+551,2026-09-01 15:49:22,Desk,Furniture,3,300.0,Pokhara,cash
+552,2026-10-01 21:14:18,Keyboard,Electronics,4,45.0,Pokhara,mobile_payment
+553,2026-09-25 17:34:15,Monitor,Electronics,1,220.0,Kathmandu,cash
+554,2026-09-09 08:47:20,Headphones,Electronics,4,90.0,Bhaktapur,card
+555,2026-09-30 21:49:32,Headphones,Electronics,5,90.0,Lalitpur,cash
+556,2026-09-07 18:43:12,Mouse,Electronics,2,25.0,Biratnagar,card
+557,2026-09-27 11:36:28,Desk Chair,Furniture,4,180.0,Biratnagar,mobile_payment
+558,2026-09-14 06:26:48,Desk Chair,Furniture,1,180.0,Bhaktapur,card
+559,2026-09-02 15:11:40,Mouse,Electronics,1,25.0,Biratnagar,cash
+560,2026-09-26 05:45:51,Monitor,Electronics,3,220.0,Biratnagar,cash
+561,2026-09-21 01:22:19,Backpack,Accessories,2,55.0,Biratnagar,card
+562,2026-09-01 12:42:30,Headphones,Electronics,5,90.0,Lalitpur,cash
+563,2026-09-24 07:03:05,Backpack,Accessories,2,55.0,Butwal,mobile_payment
+564,2026-09-01 21:39:57,Desk Chair,Furniture,3,180.0,Butwal,card
+565,2026-09-10 09:04:32,Monitor,Electronics,3,220.0,Bhaktapur,card
+566,2026-09-15 20:43:56,Headphones,Electronics,2,90.0,Butwal,mobile_payment
+567,2026-09-05 10:31:46,Headphones,Electronics,3,90.0,Biratnagar,card
+568,2026-09-10 02:44:33,Desk,Furniture,1,300.0,Kathmandu,mobile_payment
+569,2026-09-12 15:43:54,Pen,Stationery,2,2.0,Pokhara,card
+570,2026-09-07 01:32:44,Headphones,Electronics,4,90.0,Kathmandu,mobile_payment
+571,2026-09-21 11:23:43,Monitor,Electronics,2,220.0,Bhaktapur,cash
+572,2026-09-05 23:47:23,Pen,Stationery,5,2.0,Kathmandu,card
+573,2026-09-21 04:53:20,Headphones,Electronics,5,90.0,Butwal,mobile_payment
+574,2026-09-30 10:45:30,Laptop,Electronics,2,850.0,Kathmandu,card
+575,2026-09-26 13:15:36,Pen,Stationery,1,2.0,Kathmandu,card
+576,2026-09-23 06:22:20,Pen,Stationery,1,2.0,Butwal,cash
+577,2026-09-12 17:27:08,Desk,Furniture,5,300.0,Butwal,cash
+578,2026-09-24 02:26:45,Backpack,Accessories,2,55.0,Biratnagar,cash
+579,2026-09-01 13:44:53,Backpack,Accessories,2,55.0,Kathmandu,mobile_payment
+580,2026-09-24 18:12:36,Mouse,Electronics,1,25.0,Bhaktapur,cash
+581,2026-09-11 03:47:18,Keyboard,Electronics,5,45.0,Pokhara,mobile_payment
+582,2026-09-03 01:45:33,Notebook,Stationery,1,5.0,Lalitpur,cash
+583,2026-09-04 14:28:16,Headphones,Electronics,1,90.0,Butwal,mobile_payment
+584,2026-09-27 13:04:47,Backpack,Accessories,4,55.0,Kathmandu,mobile_payment
+585,2026-09-28 02:45:36,Keyboard,Electronics,3,45.0,Lalitpur,mobile_payment
+586,2026-10-01 12:54:00,Monitor,Electronics,2,220.0,Pokhara,cash
+587,2026-09-29 20:27:42,Laptop,Electronics,1,850.0,Lalitpur,card
+588,2026-09-05 17:17:14,Mouse,Electronics,2,25.0,Lalitpur,cash
+589,2026-09-08 05:29:36,Desk,Furniture,2,300.0,Bhaktapur,card
+590,2026-09-23 10:21:44,Laptop,Electronics,2,850.0,Kathmandu,card
+591,2026-09-13 08:30:29,Headphones,Electronics,4,90.0,Pokhara,mobile_payment
+592,2026-09-13 10:54:56,Pen,Stationery,2,2.0,Kathmandu,mobile_payment
+593,2026-09-27 10:04:46,Backpack,Accessories,1,55.0,Lalitpur,mobile_payment
+594,2026-09-24 05:31:54,Pen,Stationery,2,2.0,Lalitpur,cash
+595,2026-09-25 16:52:45,Keyboard,Electronics,5,45.0,Butwal,cash
+596,2026-09-04 12:40:32,Mouse,Electronics,3,25.0,Biratnagar,cash
+597,2026-09-12 18:43:06,Keyboard,Electronics,2,45.0,Lalitpur,cash
+598,2026-09-28 11:03:49,Pen,Stationery,1,2.0,Bhaktapur,cash
+599,2026-09-11 16:46:49,Desk Chair,Furniture,3,180.0,Lalitpur,card
+600,2026-09-03 23:35:12,Headphones,Electronics,5,90.0,Kathmandu,mobile_payment
+601,2026-09-18 00:54:13,Backpack,Accessories,1,55.0,Biratnagar,card
+602,2026-09-12 02:05:22,Notebook,Stationery,5,5.0,Bhaktapur,cash
+603,2026-09-14 16:12:24,Desk Chair,Furniture,5,180.0,Lalitpur,card
+604,2026-09-01 20:34:50,Monitor,Electronics,2,220.0,Butwal,cash
+605,2026-09-28 13:23:22,Pen,Stationery,4,2.0,Bhaktapur,mobile_payment
+606,2026-09-06 13:10:13,Desk Chair,Furniture,4,180.0,Pokhara,card
+607,2026-09-12 01:59:33,Mouse,Electronics,1,25.0,Butwal,mobile_payment
+608,2026-09-25 15:53:22,Pen,Stationery,5,2.0,Lalitpur,cash
+609,2026-09-07 01:48:18,Desk,Furniture,1,300.0,Bhaktapur,cash
+610,2026-09-04 23:44:19,Laptop,Electronics,5,850.0,Biratnagar,mobile_payment
+611,2026-09-01 04:55:26,Notebook,Stationery,1,5.0,Kathmandu,mobile_payment
+612,2026-10-01 02:27:31,Keyboard,Electronics,1,45.0,Butwal,card
+613,2026-09-13 15:39:56,Pen,Stationery,2,2.0,Biratnagar,mobile_payment
+614,2026-09-11 15:26:06,Backpack,Accessories,3,55.0,Biratnagar,mobile_payment
+615,2026-09-09 08:38:19,Laptop,Electronics,2,850.0,Kathmandu,cash
+616,2026-09-18 09:35:37,Headphones,Electronics,1,90.0,Biratnagar,cash
+617,2026-09-05 04:06:36,Laptop,Electronics,1,850.0,Kathmandu,card
+618,2026-09-17 05:31:53,Pen,Stationery,1,2.0,Pokhara,mobile_payment
+619,2026-09-08 21:45:16,Laptop,Electronics,1,850.0,Bhaktapur,mobile_payment
+620,2026-09-17 19:14:22,Laptop,Electronics,3,850.0,Kathmandu,mobile_payment
+621,2026-09-21 16:06:12,Keyboard,Electronics,2,45.0,Pokhara,mobile_payment
+622,2026-09-07 00:21:56,Laptop,Electronics,4,850.0,Kathmandu,card
+623,2026-09-25 14:08:28,Desk,Furniture,3,300.0,Pokhara,mobile_payment
+624,2026-09-18 20:31:51,Laptop,Electronics,3,850.0,Kathmandu,mobile_payment
+625,2026-09-30 22:03:49,Desk,Furniture,4,300.0,Butwal,cash
+626,2026-09-05 04:41:38,Headphones,Electronics,4,90.0,Lalitpur,mobile_payment
+627,2026-09-23 04:10:19,Desk Chair,Furniture,1,180.0,Kathmandu,card
+628,2026-09-02 00:43:21,Desk,Furniture,3,300.0,Lalitpur,cash
+629,2026-09-26 04:27:21,Laptop,Electronics,5,850.0,Kathmandu,card
+630,2026-09-26 19:56:11,Desk,Furniture,2,300.0,Kathmandu,cash
+631,2026-09-06 16:09:50,Pen,Stationery,2,2.0,Bhaktapur,mobile_payment
+632,2026-09-27 22:19:31,Laptop,Electronics,4,850.0,Pokhara,cash
+633,2026-09-04 22:57:59,Laptop,Electronics,1,850.0,Pokhara,cash
+634,2026-09-19 00:06:10,Monitor,Electronics,5,220.0,Kathmandu,mobile_payment
+635,2026-09-19 00:04:15,Notebook,Stationery,4,5.0,Bhaktapur,card
+636,2026-09-23 14:52:01,Keyboard,Electronics,3,45.0,Biratnagar,cash
+637,2026-09-09 20:51:28,Notebook,Stationery,5,5.0,Lalitpur,cash
+638,2026-09-04 02:18:00,Pen,Stationery,5,2.0,Biratnagar,mobile_payment
+639,2026-09-10 09:16:16,Pen,Stationery,1,2.0,Pokhara,cash
+640,2026-09-15 21:32:26,Keyboard,Electronics,3,45.0,Butwal,mobile_payment
+641,2026-09-11 04:05:09,Pen,Stationery,5,2.0,Butwal,cash
+642,2026-09-13 08:21:12,Headphones,Electronics,5,90.0,Biratnagar,card
+643,2026-09-18 09:26:40,Monitor,Electronics,5,220.0,Bhaktapur,card
+644,2026-09-16 12:43:42,Mouse,Electronics,2,25.0,Lalitpur,card
+645,2026-09-22 12:10:05,Desk Chair,Furniture,5,180.0,Biratnagar,card
+646,2026-09-20 06:52:17,Monitor,Electronics,1,220.0,Lalitpur,card
+647,2026-09-06 08:11:19,Pen,Stationery,3,2.0,Butwal,cash
+648,2026-09-25 07:29:13,Mouse,Electronics,5,25.0,Bhaktapur,card
+649,2026-09-24 20:29:09,Laptop,Electronics,5,850.0,Pokhara,card
+650,2026-09-23 15:05:51,Keyboard,Electronics,3,45.0,Bhaktapur,mobile_payment
+651,2026-09-22 00:19:58,Desk,Furniture,2,300.0,Bhaktapur,cash
+652,2026-09-09 07:36:49,Laptop,Electronics,5,850.0,Lalitpur,mobile_payment
+653,2026-09-11 04:38:08,Monitor,Electronics,5,220.0,Kathmandu,mobile_payment
+654,2026-09-05 06:59:04,Laptop,Electronics,2,850.0,Lalitpur,cash
+655,2026-09-11 03:20:04,Monitor,Electronics,1,220.0,Butwal,cash
+656,2026-09-22 17:37:51,Desk Chair,Furniture,4,180.0,Biratnagar,card
+657,2026-09-22 22:14:58,Notebook,Stationery,5,5.0,Bhaktapur,card
+658,2026-09-01 12:41:17,Desk Chair,Furniture,1,180.0,Biratnagar,card
+659,2026-09-24 02:58:22,Notebook,Stationery,5,5.0,Lalitpur,card
+660,2026-09-22 06:38:39,Backpack,Accessories,4,55.0,Lalitpur,mobile_payment
+661,2026-09-25 18:01:42,Laptop,Electronics,2,850.0,Biratnagar,mobile_payment
+662,2026-09-29 11:46:08,Laptop,Electronics,2,850.0,Pokhara,card
+663,2026-09-18 13:13:06,Pen,Stationery,4,2.0,Lalitpur,card
+664,2026-09-06 20:58:04,Desk Chair,Furniture,1,180.0,Butwal,card
+665,2026-09-16 03:45:08,Desk Chair,Furniture,3,180.0,Pokhara,mobile_payment
+666,2026-09-12 12:26:55,Keyboard,Electronics,1,45.0,Pokhara,card
+667,2026-09-17 14:47:00,Headphones,Electronics,5,90.0,Lalitpur,card
+668,2026-09-13 21:58:57,Desk Chair,Furniture,2,180.0,Kathmandu,card
+669,2026-09-06 18:20:37,Laptop,Electronics,5,850.0,Biratnagar,mobile_payment
+670,2026-09-21 20:06:20,Notebook,Stationery,5,5.0,Biratnagar,mobile_payment
+671,2026-09-11 13:43:47,Keyboard,Electronics,1,45.0,Bhaktapur,mobile_payment
+672,2026-09-15 00:44:44,Desk,Furniture,2,300.0,Biratnagar,cash
+673,2026-09-16 18:02:36,Desk,Furniture,5,300.0,Biratnagar,mobile_payment
+674,2026-09-16 12:58:42,Mouse,Electronics,4,25.0,Lalitpur,cash
+675,2026-09-08 11:42:51,Notebook,Stationery,1,5.0,Bhaktapur,card
+676,2026-09-29 20:38:43,Keyboard,Electronics,3,45.0,Bhaktapur,mobile_payment
+677,2026-09-02 18:40:27,Desk,Furniture,5,300.0,Kathmandu,cash
+678,2026-09-24 17:11:08,Keyboard,Electronics,3,45.0,Biratnagar,cash
+679,2026-09-21 02:44:31,Pen,Stationery,2,2.0,Butwal,mobile_payment
+680,2026-09-16 01:01:36,Desk Chair,Furniture,1,180.0,Kathmandu,mobile_payment
+681,2026-09-07 14:14:07,Notebook,Stationery,3,5.0,Bhaktapur,card
+682,2026-09-15 16:05:06,Monitor,Electronics,5,220.0,Pokhara,mobile_payment
+683,2026-09-16 12:40:37,Headphones,Electronics,2,90.0,Pokhara,card
+684,2026-09-24 13:53:35,Monitor,Electronics,2,220.0,Kathmandu,cash
+685,2026-09-25 21:47:06,Monitor,Electronics,1,220.0,Pokhara,mobile_payment
+686,2026-09-09 02:05:11,Notebook,Stationery,1,5.0,Kathmandu,mobile_payment
+687,2026-09-03 15:42:32,Mouse,Electronics,2,25.0,Biratnagar,card
+688,2026-09-24 09:12:09,Backpack,Accessories,1,55.0,Kathmandu,cash
+689,2026-09-30 12:00:57,Mouse,Electronics,2,25.0,Butwal,cash
+690,2026-09-01 07:36:13,Laptop,Electronics,3,850.0,Bhaktapur,cash
+691,2026-09-23 10:41:47,Mouse,Electronics,4,25.0,Bhaktapur,mobile_payment
+692,2026-09-27 13:08:07,Desk Chair,Furniture,3,180.0,Lalitpur,card
+693,2026-09-08 16:15:15,Backpack,Accessories,2,55.0,Butwal,card
+694,2026-09-16 16:06:28,Headphones,Electronics,1,90.0,Biratnagar,cash
+695,2026-09-03 08:14:33,Headphones,Electronics,5,90.0,Lalitpur,card
+696,2026-09-21 22:26:18,Notebook,Stationery,5,5.0,Pokhara,card
+697,2026-09-27 12:56:15,Desk,Furniture,2,300.0,Pokhara,card
+698,2026-09-03 13:00:22,Monitor,Electronics,2,220.0,Kathmandu,mobile_payment
+699,2026-09-14 21:22:11,Desk,Furniture,2,300.0,Bhaktapur,mobile_payment
+700,2026-09-01 09:58:58,Backpack,Accessories,1,55.0,Biratnagar,cash
+701,2026-09-22 23:47:11,Backpack,Accessories,2,55.0,Lalitpur,mobile_payment
+702,2026-09-15 04:25:14,Headphones,Electronics,2,90.0,Butwal,cash
+703,2026-09-10 18:43:17,Keyboard,Electronics,5,45.0,Pokhara,mobile_payment
+704,2026-09-19 22:18:36,Keyboard,Electronics,3,45.0,Bhaktapur,card
+705,2026-09-17 00:55:58,Monitor,Electronics,1,220.0,Biratnagar,mobile_payment
+706,2026-09-25 07:45:33,Pen,Stationery,1,2.0,Kathmandu,cash
+707,2026-09-17 06:25:11,Monitor,Electronics,5,220.0,Pokhara,mobile_payment
+708,2026-09-15 17:20:43,Desk Chair,Furniture,3,180.0,Lalitpur,cash
+709,2026-09-25 08:04:22,Backpack,Accessories,3,55.0,Lalitpur,card
+710,2026-09-22 06:41:58,Backpack,Accessories,5,55.0,Pokhara,card
+711,2026-09-08 14:42:19,Monitor,Electronics,5,220.0,Kathmandu,card
+712,2026-09-09 05:48:12,Desk Chair,Furniture,4,180.0,Pokhara,cash
+713,2026-09-22 18:20:22,Backpack,Accessories,2,55.0,Bhaktapur,mobile_payment
+714,2026-09-15 15:47:31,Monitor,Electronics,3,220.0,Kathmandu,cash
+715,2026-09-16 23:36:14,Keyboard,Electronics,3,45.0,Biratnagar,card
+716,2026-09-04 21:08:46,Desk,Furniture,1,300.0,Pokhara,card
+717,2026-09-05 10:06:55,Headphones,Electronics,1,90.0,Kathmandu,card
+718,2026-09-05 04:55:08,Desk Chair,Furniture,2,180.0,Butwal,card
+719,2026-09-04 05:24:17,Desk,Furniture,3,300.0,Biratnagar,card
+720,2026-09-14 20:09:44,Headphones,Electronics,5,90.0,Kathmandu,cash
+721,2026-09-24 08:19:23,Desk Chair,Furniture,3,180.0,Lalitpur,mobile_payment
+722,2026-09-10 18:24:02,Desk,Furniture,5,300.0,Biratnagar,mobile_payment
+723,2026-09-22 12:47:01,Notebook,Stationery,2,5.0,Bhaktapur,card
+724,2026-09-24 04:24:44,Desk Chair,Furniture,5,180.0,Pokhara,card
+725,2026-09-01 23:36:11,Desk,Furniture,5,300.0,Kathmandu,cash
+726,2026-09-22 16:07:04,Headphones,Electronics,1,90.0,Pokhara,card
+727,2026-09-30 00:51:59,Notebook,Stationery,2,5.0,Pokhara,card
+728,2026-09-19 15:31:13,Headphones,Electronics,2,90.0,Biratnagar,cash
+729,2026-09-02 09:04:35,Keyboard,Electronics,5,45.0,Kathmandu,card
+730,2026-09-07 06:17:36,Mouse,Electronics,4,25.0,Bhaktapur,card
+731,2026-09-05 08:26:46,Keyboard,Electronics,1,45.0,Kathmandu,mobile_payment
+732,2026-09-26 07:23:51,Laptop,Electronics,1,850.0,Pokhara,mobile_payment
+733,2026-09-12 23:58:21,Notebook,Stationery,1,5.0,Butwal,cash
+734,2026-09-19 11:39:22,Desk Chair,Furniture,4,180.0,Pokhara,cash
+735,2026-09-01 13:44:43,Monitor,Electronics,3,220.0,Lalitpur,card
+736,2026-09-11 15:53:07,Desk,Furniture,3,300.0,Bhaktapur,cash
+737,2026-09-24 18:39:48,Monitor,Electronics,5,220.0,Butwal,card
+738,2026-09-23 11:35:59,Backpack,Accessories,5,55.0,Lalitpur,mobile_payment
+739,2026-09-30 05:57:46,Laptop,Electronics,1,850.0,Bhaktapur,card
+740,2026-09-14 12:41:53,Keyboard,Electronics,5,45.0,Bhaktapur,cash
+741,2026-09-11 15:03:00,Desk,Furniture,3,300.0,Lalitpur,card
+742,2026-09-18 12:50:05,Monitor,Electronics,5,220.0,Pokhara,cash
+743,2026-09-04 20:09:11,Desk,Furniture,5,300.0,Bhaktapur,card
+744,2026-09-17 02:04:03,Desk Chair,Furniture,2,180.0,Biratnagar,cash
+745,2026-09-13 21:43:11,Backpack,Accessories,2,55.0,Biratnagar,card
+746,2026-09-11 19:41:40,Monitor,Electronics,4,220.0,Bhaktapur,mobile_payment
+747,2026-09-14 07:17:22,Backpack,Accessories,5,55.0,Lalitpur,cash
+748,2026-09-12 02:07:58,Headphones,Electronics,1,90.0,Butwal,mobile_payment
+749,2026-09-22 12:17:12,Notebook,Stationery,3,5.0,Lalitpur,card
+750,2026-09-08 09:24:13,Notebook,Stationery,4,5.0,Butwal,card
+751,2026-09-29 21:17:12,Mouse,Electronics,3,25.0,Lalitpur,mobile_payment
+752,2026-09-17 12:25:43,Backpack,Accessories,4,55.0,Bhaktapur,card
+753,2026-09-16 16:54:37,Desk,Furniture,4,300.0,Bhaktapur,cash
+754,2026-10-01 00:56:46,Headphones,Electronics,2,90.0,Butwal,card
+755,2026-09-08 01:19:04,Keyboard,Electronics,3,45.0,Bhaktapur,card
+756,2026-09-05 19:16:33,Pen,Stationery,3,2.0,Biratnagar,mobile_payment
+757,2026-09-29 07:27:27,Desk Chair,Furniture,2,180.0,Lalitpur,mobile_payment
+758,2026-09-05 04:21:32,Headphones,Electronics,3,90.0,Pokhara,mobile_payment
+759,2026-09-20 20:33:58,Mouse,Electronics,3,25.0,Lalitpur,cash
+760,2026-09-29 06:44:16,Laptop,Electronics,2,850.0,Bhaktapur,card
+761,2026-09-24 06:16:42,Laptop,Electronics,1,850.0,Biratnagar,card
+762,2026-09-15 11:08:42,Pen,Stationery,3,2.0,Bhaktapur,cash
+763,2026-10-01 22:41:56,Desk Chair,Furniture,1,180.0,Kathmandu,mobile_payment
+764,2026-09-22 02:56:02,Desk,Furniture,2,300.0,Lalitpur,card
+765,2026-09-21 11:35:21,Monitor,Electronics,3,220.0,Kathmandu,cash
+766,2026-09-08 22:09:56,Desk,Furniture,2,300.0,Pokhara,card
+767,2026-09-28 22:19:47,Mouse,Electronics,2,25.0,Biratnagar,mobile_payment
+768,2026-09-25 17:34:09,Headphones,Electronics,5,90.0,Lalitpur,cash
+769,2026-09-18 22:42:53,Laptop,Electronics,3,850.0,Lalitpur,cash
+770,2026-09-27 19:14:44,Monitor,Electronics,3,220.0,Butwal,card
+771,2026-09-18 11:38:29,Notebook,Stationery,1,5.0,Kathmandu,cash
+772,2026-09-26 22:23:37,Keyboard,Electronics,3,45.0,Kathmandu,cash
+773,2026-09-24 19:09:36,Headphones,Electronics,2,90.0,Biratnagar,card
+774,2026-10-01 03:40:03,Monitor,Electronics,1,220.0,Bhaktapur,mobile_payment
+775,2026-09-21 07:07:29,Headphones,Electronics,2,90.0,Kathmandu,cash
+776,2026-09-02 02:30:20,Monitor,Electronics,1,220.0,Butwal,mobile_payment
+777,2026-09-22 19:46:53,Mouse,Electronics,1,25.0,Bhaktapur,cash
+778,2026-09-26 21:20:56,Mouse,Electronics,1,25.0,Biratnagar,cash
+779,2026-09-30 05:42:19,Notebook,Stationery,1,5.0,Butwal,mobile_payment
+780,2026-09-30 11:58:13,Laptop,Electronics,4,850.0,Lalitpur,cash
+781,2026-09-03 16:35:14,Desk,Furniture,3,300.0,Bhaktapur,mobile_payment
+782,2026-09-08 06:35:08,Laptop,Electronics,3,850.0,Biratnagar,card
+783,2026-09-03 07:46:07,Keyboard,Electronics,5,45.0,Pokhara,card
+784,2026-09-14 11:22:54,Backpack,Accessories,1,55.0,Butwal,cash
+785,2026-09-23 11:57:46,Mouse,Electronics,5,25.0,Butwal,cash
+786,2026-09-30 13:10:16,Keyboard,Electronics,1,45.0,Pokhara,cash
+787,2026-09-22 07:12:44,Desk,Furniture,2,300.0,Biratnagar,cash
+788,2026-09-08 18:47:51,Mouse,Electronics,1,25.0,Pokhara,mobile_payment
+789,2026-09-17 06:24:15,Desk Chair,Furniture,1,180.0,Bhaktapur,mobile_payment
+790,2026-09-09 19:40:26,Notebook,Stationery,3,5.0,Lalitpur,cash
+791,2026-09-19 11:12:22,Notebook,Stationery,5,5.0,Pokhara,card
+792,2026-09-18 22:12:00,Laptop,Electronics,1,850.0,Kathmandu,cash
+793,2026-09-12 02:28:19,Mouse,Electronics,4,25.0,Bhaktapur,card
+794,2026-09-28 18:07:25,Desk Chair,Furniture,1,180.0,Lalitpur,card
+795,2026-09-11 05:04:24,Desk,Furniture,1,300.0,Pokhara,mobile_payment
+796,2026-09-28 08:42:10,Laptop,Electronics,1,850.0,Butwal,card
+797,2026-09-16 09:04:33,Pen,Stationery,3,2.0,Lalitpur,card
+798,2026-09-04 04:41:51,Desk,Furniture,5,300.0,Biratnagar,cash
+799,2026-09-07 18:00:13,Pen,Stationery,2,2.0,Bhaktapur,mobile_payment
+800,2026-09-26 08:03:22,Desk,Furniture,2,300.0,Kathmandu,cash
+801,2026-09-17 01:10:32,Monitor,Electronics,2,220.0,Kathmandu,cash
+802,2026-09-21 00:39:33,Notebook,Stationery,2,5.0,Kathmandu,mobile_payment
+803,2026-09-03 16:11:37,Desk,Furniture,2,300.0,Lalitpur,card
+804,2026-09-25 15:58:34,Monitor,Electronics,2,220.0,Lalitpur,cash
+805,2026-09-06 20:24:26,Desk Chair,Furniture,5,180.0,Kathmandu,cash
+806,2026-09-25 01:10:06,Keyboard,Electronics,3,45.0,Lalitpur,card
+807,2026-09-29 20:07:21,Backpack,Accessories,5,55.0,Kathmandu,mobile_payment
+808,2026-09-20 17:19:34,Monitor,Electronics,5,220.0,Biratnagar,card
+809,2026-09-03 12:35:04,Backpack,Accessories,2,55.0,Kathmandu,card
+810,2026-09-06 11:57:02,Headphones,Electronics,5,90.0,Pokhara,card
+811,2026-09-24 08:12:24,Notebook,Stationery,1,5.0,Kathmandu,cash
+812,2026-09-28 17:15:31,Backpack,Accessories,1,55.0,Butwal,mobile_payment
+813,2026-09-14 10:23:06,Headphones,Electronics,2,90.0,Pokhara,mobile_payment
+814,2026-09-23 00:30:31,Pen,Stationery,5,2.0,Butwal,mobile_payment
+815,2026-09-25 03:23:33,Desk Chair,Furniture,4,180.0,Butwal,cash
+816,2026-10-01 07:46:37,Pen,Stationery,5,2.0,Kathmandu,card
+817,2026-09-27 22:45:29,Pen,Stationery,4,2.0,Pokhara,cash
+818,2026-09-29 14:12:11,Laptop,Electronics,2,850.0,Butwal,cash
+819,2026-09-20 07:21:49,Pen,Stationery,4,2.0,Pokhara,cash
+820,2026-09-21 02:45:33,Headphones,Electronics,4,90.0,Lalitpur,card
+821,2026-09-09 15:39:18,Notebook,Stationery,1,5.0,Lalitpur,cash
+822,2026-09-21 21:19:44,Desk,Furniture,3,300.0,Butwal,cash
+823,2026-09-08 21:21:52,Backpack,Accessories,2,55.0,Biratnagar,cash
+824,2026-09-01 03:38:39,Keyboard,Electronics,3,45.0,Pokhara,cash
+825,2026-09-17 20:40:40,Headphones,Electronics,4,90.0,Bhaktapur,cash
+826,2026-09-21 12:34:12,Desk Chair,Furniture,3,180.0,Lalitpur,card
+827,2026-09-23 18:12:29,Backpack,Accessories,1,55.0,Kathmandu,card
+828,2026-09-26 06:06:15,Backpack,Accessories,1,55.0,Kathmandu,mobile_payment
+829,2026-09-25 09:57:39,Pen,Stationery,5,2.0,Lalitpur,mobile_payment
+830,2026-09-03 15:02:38,Desk,Furniture,5,300.0,Biratnagar,card
+831,2026-09-14 12:55:26,Mouse,Electronics,4,25.0,Butwal,cash
+832,2026-09-13 10:12:47,Keyboard,Electronics,2,45.0,Butwal,cash
+833,2026-09-12 00:13:13,Monitor,Electronics,1,220.0,Kathmandu,card
+834,2026-09-05 19:01:57,Headphones,Electronics,3,90.0,Kathmandu,cash
+835,2026-09-29 10:07:11,Pen,Stationery,5,2.0,Lalitpur,cash
+836,2026-09-18 17:40:45,Desk Chair,Furniture,5,180.0,Biratnagar,card
+837,2026-09-01 00:40:03,Laptop,Electronics,3,850.0,Bhaktapur,card
+838,2026-09-03 21:17:17,Desk Chair,Furniture,4,180.0,Pokhara,card
+839,2026-09-04 16:05:37,Monitor,Electronics,4,220.0,Lalitpur,mobile_payment
+840,2026-09-25 14:50:23,Desk Chair,Furniture,4,180.0,Kathmandu,cash
+841,2026-09-27 07:34:46,Desk Chair,Furniture,2,180.0,Butwal,card
+842,2026-09-30 04:55:54,Keyboard,Electronics,3,45.0,Bhaktapur,card
+843,2026-10-01 22:49:40,Mouse,Electronics,1,25.0,Kathmandu,card
+844,2026-09-08 09:17:25,Monitor,Electronics,3,220.0,Bhaktapur,mobile_payment
+845,2026-09-18 13:22:41,Backpack,Accessories,4,55.0,Pokhara,mobile_payment
+846,2026-09-10 17:54:32,Laptop,Electronics,5,850.0,Butwal,mobile_payment
+847,2026-09-27 10:10:38,Desk,Furniture,3,300.0,Kathmandu,cash
+848,2026-09-12 21:04:39,Headphones,Electronics,3,90.0,Butwal,mobile_payment
+849,2026-09-11 09:30:18,Desk,Furniture,5,300.0,Bhaktapur,mobile_payment
+850,2026-09-29 09:55:28,Desk,Furniture,2,300.0,Butwal,card
+851,2026-09-05 14:57:05,Pen,Stationery,3,2.0,Butwal,card
+852,2026-09-19 06:35:29,Notebook,Stationery,2,5.0,Biratnagar,mobile_payment
+853,2026-09-12 21:04:40,Desk,Furniture,5,300.0,Butwal,cash
+854,2026-09-16 01:37:15,Notebook,Stationery,2,5.0,Lalitpur,card
+855,2026-09-06 20:17:46,Desk,Furniture,2,300.0,Pokhara,card
+856,2026-09-27 08:05:45,Desk,Furniture,4,300.0,Bhaktapur,cash
+857,2026-09-16 18:40:57,Pen,Stationery,1,2.0,Lalitpur,cash
+858,2026-09-23 06:44:18,Headphones,Electronics,4,90.0,Butwal,card
+859,2026-09-22 04:12:37,Desk Chair,Furniture,3,180.0,Biratnagar,mobile_payment
+860,2026-09-27 03:47:34,Laptop,Electronics,2,850.0,Butwal,mobile_payment
+861,2026-09-23 09:42:19,Notebook,Stationery,4,5.0,Pokhara,mobile_payment
+862,2026-09-22 14:24:19,Headphones,Electronics,5,90.0,Pokhara,cash
+863,2026-09-19 03:24:29,Keyboard,Electronics,3,45.0,Bhaktapur,card
+864,2026-09-22 03:11:22,Laptop,Electronics,4,850.0,Pokhara,mobile_payment
+865,2026-09-28 16:42:19,Headphones,Electronics,5,90.0,Pokhara,card
+866,2026-09-30 13:37:54,Pen,Stationery,5,2.0,Bhaktapur,card
+867,2026-09-29 19:26:30,Desk,Furniture,3,300.0,Lalitpur,mobile_payment
+868,2026-09-20 17:24:46,Desk,Furniture,5,300.0,Bhaktapur,mobile_payment
+869,2026-09-17 19:42:03,Keyboard,Electronics,3,45.0,Biratnagar,card
+870,2026-09-04 09:52:28,Laptop,Electronics,1,850.0,Pokhara,cash
+871,2026-09-25 03:03:53,Monitor,Electronics,3,220.0,Kathmandu,card
+872,2026-09-18 11:49:34,Pen,Stationery,3,2.0,Butwal,cash
+873,2026-09-13 12:44:56,Notebook,Stationery,4,5.0,Pokhara,mobile_payment
+874,2026-09-01 10:04:33,Laptop,Electronics,1,850.0,Pokhara,card
+875,2026-09-29 21:00:16,Keyboard,Electronics,2,45.0,Pokhara,mobile_payment
+876,2026-09-14 15:38:01,Desk Chair,Furniture,1,180.0,Bhaktapur,cash
+877,2026-09-27 20:02:51,Notebook,Stationery,5,5.0,Butwal,mobile_payment
+878,2026-09-22 07:31:58,Mouse,Electronics,3,25.0,Pokhara,card
+879,2026-09-16 02:49:05,Desk,Furniture,5,300.0,Kathmandu,card
+880,2026-09-23 06:59:21,Headphones,Electronics,2,90.0,Pokhara,card
+881,2026-09-15 13:45:26,Headphones,Electronics,5,90.0,Butwal,card
+882,2026-09-23 09:03:55,Desk Chair,Furniture,5,180.0,Pokhara,card
+883,2026-09-18 04:23:28,Headphones,Electronics,1,90.0,Kathmandu,card
+884,2026-09-18 21:44:17,Mouse,Electronics,2,25.0,Bhaktapur,cash
+885,2026-09-19 13:57:46,Laptop,Electronics,3,850.0,Butwal,cash
+886,2026-09-03 03:30:09,Desk,Furniture,3,300.0,Bhaktapur,cash
+887,2026-09-18 13:37:09,Desk Chair,Furniture,5,180.0,Kathmandu,card
+888,2026-09-22 17:40:22,Desk Chair,Furniture,4,180.0,Kathmandu,card
+889,2026-09-15 00:14:29,Laptop,Electronics,3,850.0,Pokhara,card
+890,2026-09-03 16:56:33,Laptop,Electronics,2,850.0,Biratnagar,card
+891,2026-09-29 08:26:43,Backpack,Accessories,3,55.0,Biratnagar,card
+892,2026-09-27 12:24:53,Monitor,Electronics,5,220.0,Biratnagar,card
+893,2026-09-08 00:52:34,Mouse,Electronics,4,25.0,Butwal,card
+894,2026-09-02 01:56:10,Keyboard,Electronics,1,45.0,Bhaktapur,cash
+895,2026-09-28 19:59:51,Desk Chair,Furniture,5,180.0,Pokhara,cash
+896,2026-09-28 01:57:21,Monitor,Electronics,2,220.0,Lalitpur,mobile_payment
+897,2026-09-23 17:13:01,Pen,Stationery,5,2.0,Lalitpur,mobile_payment
+898,2026-09-28 22:36:44,Pen,Stationery,1,2.0,Bhaktapur,mobile_payment
+899,2026-09-14 06:02:46,Headphones,Electronics,1,90.0,Pokhara,cash
+900,2026-09-10 00:18:38,Desk,Furniture,3,300.0,Lalitpur,card
+901,2026-09-30 11:53:17,Backpack,Accessories,4,55.0,Lalitpur,cash
+902,2026-09-27 19:01:41,Monitor,Electronics,1,220.0,Kathmandu,card
+903,2026-09-27 01:18:49,Laptop,Electronics,4,850.0,Biratnagar,mobile_payment
+904,2026-09-05 15:16:07,Keyboard,Electronics,5,45.0,Pokhara,cash
+905,2026-09-20 17:29:25,Pen,Stationery,4,2.0,Pokhara,card
+906,2026-09-11 08:08:29,Mouse,Electronics,4,25.0,Kathmandu,mobile_payment
+907,2026-09-02 05:48:18,Pen,Stationery,2,2.0,Butwal,card
+908,2026-09-16 19:49:37,Backpack,Accessories,5,55.0,Bhaktapur,card
+909,2026-09-16 01:37:42,Laptop,Electronics,5,850.0,Biratnagar,card
+910,2026-09-15 12:04:55,Desk,Furniture,5,300.0,Bhaktapur,card
+911,2026-09-10 11:53:29,Keyboard,Electronics,4,45.0,Lalitpur,mobile_payment
+912,2026-09-09 03:54:38,Notebook,Stationery,4,5.0,Kathmandu,card
+913,2026-09-16 12:58:44,Notebook,Stationery,2,5.0,Kathmandu,mobile_payment
+914,2026-09-09 06:53:27,Notebook,Stationery,1,5.0,Biratnagar,mobile_payment
+915,2026-09-19 20:53:19,Monitor,Electronics,1,220.0,Biratnagar,cash
+916,2026-09-17 06:45:43,Monitor,Electronics,3,220.0,Pokhara,mobile_payment
+917,2026-09-08 23:05:41,Mouse,Electronics,1,25.0,Pokhara,card
+918,2026-09-02 07:12:22,Monitor,Electronics,5,220.0,Lalitpur,mobile_payment
+919,2026-09-05 00:22:53,Desk,Furniture,5,300.0,Bhaktapur,card
+920,2026-09-09 08:31:23,Laptop,Electronics,1,850.0,Lalitpur,mobile_payment
+921,2026-09-11 01:39:16,Laptop,Electronics,3,850.0,Bhaktapur,mobile_payment
+922,2026-09-07 18:35:29,Monitor,Electronics,3,220.0,Butwal,mobile_payment
+923,2026-09-06 01:02:37,Notebook,Stationery,3,5.0,Kathmandu,mobile_payment
+924,2026-09-05 14:15:33,Mouse,Electronics,5,25.0,Bhaktapur,cash
+925,2026-09-03 10:24:18,Desk Chair,Furniture,4,180.0,Pokhara,mobile_payment
+926,2026-09-05 13:25:00,Backpack,Accessories,2,55.0,Butwal,mobile_payment
+927,2026-09-13 22:56:51,Notebook,Stationery,3,5.0,Lalitpur,cash
+928,2026-09-16 10:45:22,Backpack,Accessories,3,55.0,Pokhara,cash
+929,2026-09-21 16:31:53,Notebook,Stationery,3,5.0,Bhaktapur,card
+930,2026-09-08 15:45:28,Laptop,Electronics,1,850.0,Kathmandu,cash
+931,2026-09-29 02:30:50,Monitor,Electronics,1,220.0,Lalitpur,card
+932,2026-09-25 22:07:48,Headphones,Electronics,3,90.0,Bhaktapur,mobile_payment
+933,2026-09-28 14:19:26,Desk,Furniture,1,300.0,Kathmandu,mobile_payment
+934,2026-09-30 22:43:56,Mouse,Electronics,5,25.0,Kathmandu,cash
+935,2026-10-01 22:45:32,Backpack,Accessories,3,55.0,Pokhara,cash
+936,2026-09-10 16:44:26,Keyboard,Electronics,3,45.0,Kathmandu,cash
+937,2026-09-26 06:46:24,Notebook,Stationery,3,5.0,Biratnagar,cash
+938,2026-10-01 21:07:01,Mouse,Electronics,3,25.0,Bhaktapur,card
+939,2026-09-06 00:13:43,Mouse,Electronics,4,25.0,Lalitpur,card
+940,2026-09-13 06:48:08,Headphones,Electronics,5,90.0,Kathmandu,mobile_payment
+941,2026-09-16 23:39:03,Keyboard,Electronics,2,45.0,Biratnagar,cash
+942,2026-09-16 17:53:19,Pen,Stationery,2,2.0,Pokhara,mobile_payment
+943,2026-09-20 20:19:18,Headphones,Electronics,4,90.0,Pokhara,card
+944,2026-10-01 22:46:52,Notebook,Stationery,3,5.0,Biratnagar,mobile_payment
+945,2026-09-27 12:59:26,Monitor,Electronics,5,220.0,Biratnagar,mobile_payment
+946,2026-09-20 10:56:19,Desk,Furniture,5,300.0,Lalitpur,card
+947,2026-09-17 02:35:30,Mouse,Electronics,1,25.0,Lalitpur,card
+948,2026-09-13 14:57:50,Desk Chair,Furniture,3,180.0,Biratnagar,mobile_payment
+949,2026-09-27 07:18:51,Desk,Furniture,4,300.0,Kathmandu,mobile_payment
+950,2026-09-02 06:36:43,Desk,Furniture,2,300.0,Pokhara,cash
+951,2026-09-21 18:19:51,Keyboard,Electronics,4,45.0,Biratnagar,mobile_payment
+952,2026-09-28 16:34:19,Notebook,Stationery,1,5.0,Pokhara,card
+953,2026-09-09 15:34:39,Pen,Stationery,3,2.0,Pokhara,cash
+954,2026-09-05 22:53:50,Notebook,Stationery,5,5.0,Butwal,cash
+955,2026-09-19 19:23:32,Monitor,Electronics,1,220.0,Butwal,mobile_payment
+956,2026-09-09 16:54:14,Headphones,Electronics,1,90.0,Lalitpur,card
+957,2026-09-29 08:18:27,Headphones,Electronics,3,90.0,Kathmandu,mobile_payment
+958,2026-09-17 13:49:08,Keyboard,Electronics,4,45.0,Lalitpur,card
+959,2026-10-01 11:26:26,Pen,Stationery,5,2.0,Kathmandu,card
+960,2026-09-10 21:53:28,Keyboard,Electronics,3,45.0,Kathmandu,mobile_payment
+961,2026-09-14 14:37:06,Pen,Stationery,1,2.0,Biratnagar,cash
+962,2026-09-01 08:44:34,Desk Chair,Furniture,5,180.0,Kathmandu,mobile_payment
+963,2026-09-03 06:55:00,Mouse,Electronics,4,25.0,Pokhara,card
+964,2026-09-05 21:10:36,Desk Chair,Furniture,1,180.0,Biratnagar,cash
+965,2026-09-23 07:10:59,Desk Chair,Furniture,1,180.0,Kathmandu,cash
+966,2026-09-09 16:49:55,Desk,Furniture,5,300.0,Biratnagar,mobile_payment
+967,2026-09-30 13:23:46,Desk Chair,Furniture,1,180.0,Kathmandu,cash
+968,2026-09-28 16:24:51,Keyboard,Electronics,3,45.0,Biratnagar,cash
+969,2026-09-06 22:04:12,Desk,Furniture,4,300.0,Pokhara,mobile_payment
+970,2026-10-01 08:58:16,Desk Chair,Furniture,2,180.0,Lalitpur,mobile_payment
+971,2026-09-28 14:28:29,Laptop,Electronics,4,850.0,Butwal,mobile_payment
+972,2026-09-09 13:12:53,Notebook,Stationery,2,5.0,Kathmandu,card
+973,2026-09-18 15:45:02,Mouse,Electronics,4,25.0,Biratnagar,card
+974,2026-09-07 02:18:44,Keyboard,Electronics,4,45.0,Bhaktapur,mobile_payment
+975,2026-09-22 16:03:18,Desk,Furniture,1,300.0,Lalitpur,mobile_payment
+976,2026-09-06 13:41:46,Pen,Stationery,2,2.0,Pokhara,mobile_payment
+977,2026-09-04 11:57:12,Laptop,Electronics,5,850.0,Bhaktapur,card
+978,2026-09-20 08:16:59,Monitor,Electronics,2,220.0,Biratnagar,card
+979,2026-09-16 19:37:26,Pen,Stationery,1,2.0,Bhaktapur,cash
+980,2026-09-27 20:41:43,Headphones,Electronics,4,90.0,Pokhara,cash
+981,2026-09-25 10:28:58,Headphones,Electronics,5,90.0,Lalitpur,cash
+982,2026-09-22 13:29:20,Desk,Furniture,1,300.0,Butwal,mobile_payment
+983,2026-09-27 19:34:17,Headphones,Electronics,3,90.0,Kathmandu,cash
+984,2026-09-02 18:11:48,Keyboard,Electronics,3,45.0,Kathmandu,cash
+985,2026-09-27 12:11:27,Pen,Stationery,2,2.0,Butwal,mobile_payment
+986,2026-09-18 01:42:02,Keyboard,Electronics,4,45.0,Pokhara,cash
+987,2026-09-22 20:32:08,Desk,Furniture,2,300.0,Lalitpur,mobile_payment
+988,2026-09-11 12:57:13,Backpack,Accessories,5,55.0,Butwal,cash
+989,2026-09-26 02:37:03,Mouse,Electronics,1,25.0,Lalitpur,card
+990,2026-09-02 02:55:50,Backpack,Accessories,1,55.0,Butwal,mobile_payment
+991,2026-09-20 11:33:44,Backpack,Accessories,3,55.0,Kathmandu,cash
+992,2026-09-02 22:34:10,Mouse,Electronics,2,25.0,Kathmandu,card
+993,2026-09-09 06:43:55,Headphones,Electronics,1,90.0,Biratnagar,mobile_payment
+994,2026-09-14 00:17:13,Backpack,Accessories,2,55.0,Biratnagar,card
+995,2026-09-26 22:51:14,Keyboard,Electronics,4,45.0,Biratnagar,mobile_payment
+996,2026-09-25 20:51:58,Mouse,Electronics,4,25.0,Bhaktapur,card
+997,2026-09-13 08:01:02,Notebook,Stationery,5,5.0,Kathmandu,card
+998,2026-09-11 05:44:20,Keyboard,Electronics,1,45.0,Biratnagar,card
+999,2026-09-02 13:37:46,Headphones,Electronics,5,90.0,Biratnagar,card
+1000,2026-09-07 05:27:11,Backpack,Accessories,5,55.0,Lalitpur,cash
