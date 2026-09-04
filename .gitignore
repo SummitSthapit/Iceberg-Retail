@@ -1,9 +1,13 @@
 # Iceberg generated warehouse
 warehouse/
+spark-events/
+*.inprogress
 
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
 
 # Jupyter
 .ipynb_checkpoints/
@@ -16,6 +20,7 @@ env/
 # Environment variables
 .env
 .env.local
+.env.*
 
 # OS files
 .DS_Store
@@ -27,3 +32,27 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# AWS credentials / configuration
+.aws/
+*.pem
+*.key
+
+
+# Logs
+*.log
+logs/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/.airflow/
+airflow/__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Docker
+docker-compose.override.yml
